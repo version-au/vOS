@@ -75,8 +75,6 @@ LOADSIZE=14
 FANRPMTEXT=C5D86D
 FANRPMSIZE=7
 
-
-
 ;=====================|   COLORS   |=====================
 
 SysBarColor=1B2432
