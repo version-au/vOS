@@ -19,6 +19,12 @@ SpeedUnit=Mph
 PressureUnit=Mb
 VisibilityUnit=Km
 
+;=====================|   APPBAR VIEW   |=====================
+
+AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
+AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
+AppPath3=C:\Users\steve\Downloads\
+
 ;=====================|   FOLDER VIEW   |=====================
 
 ; Set by context menu selection
