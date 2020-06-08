@@ -28,8 +28,8 @@ MenuTitle=#Path#
 MenuTitle2=#Path2#
 
 ; Initial path to parse and display
-Path=C:\apps\Nimi Places\Places\Containers\Games\
-Path2=C:\apps\Nimi Places\Places\Containers\Applications\
+Path=C:\Users\steve\Documents\Shortcuts\Games\
+Path2=C:\Users\steve\Documents\Shortcuts\Applications\
 ; Menu Types via Context menu selection
 ; Sets value to 'SmallIcons' for Small Icon and Text List
 ; Sets value to 'TextOnly' for Text Only List
