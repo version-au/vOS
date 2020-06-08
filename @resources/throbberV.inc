@@ -9,14 +9,14 @@ Shape=Rectangle 0,0,5,5,50 | StrokeWidth  0 | Stroke Color #StrokeMainColor# | F
 
 [Throbber2]
 Meter=Shape
-X=5
-Y=15
+X=15
+Y=5
 ;MyFillGradient=0,0 | #PaletteColor2# ; 0.3 | #PaletteColor3# ; 1.0
 Shape=Rectangle 0,0,5,5,50 | StrokeWidth  0 | Stroke Color #StrokeMainColor# | Fill Color #PaletteColor2#
 
 [Throbber3]
 Meter=Shape
-X=5
-Y=25
+X=25
+Y=5
 ;MyFillGradient=0,0 | #PaletteColor3# ; 0.3 | #PaletteColor1# ; 1.0
 Shape=Rectangle 0,0,5,5,50 | StrokeWidth  0 | Stroke Color #StrokeMainColor# | Fill Color #PaletteColor3#
