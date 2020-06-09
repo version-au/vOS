@@ -107,3 +107,7 @@ MaxDownloadMbits=90
 MaxUploadMbits=7
 
 Interface=Best
+
+;=====================|   MUSIC PLAYER   |====================
+
+PLAYERNAME=Spotify

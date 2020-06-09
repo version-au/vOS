@@ -3,26 +3,26 @@
 ;=====================|   FONTS   |=====================
 FONT=Roboto Medium
 ;;;;;;TITLE TEXT;;;;;;
-TEXTGREY=ED254E
+TEXTGREY=2F81BB
 TITLESIZE=12
 ;;;;;;LOAD TEXT;;;;;;
-TEXTDARKGREY=C5D86D
+TEXTDARKGREY=7DA0B4
 LOADSIZE=14
 ;;;;;;FAN RPM TEXT;;;;;;
-FANRPMTEXT=C5D86D
+FANRPMTEXT=884682
 FANRPMSIZE=7
 
 ;=====================|   COLORS   |=====================
 
-SysBarColor=1B2432
-StrokeMainColor=CFD4DD
-GradColor1=403F4C
-GradColor2=1B2432
-LineColor1=ED254E
-LineColor2=C5D86D
-HistColor=2C2B3C
-HDDcolorused=ED254E
-HDDcolorfree=C5D86D
+SysBarColor=1F1F1E
+StrokeMainColor=7DA0B4
+GradColor1=2F81BB
+GradColor2=884682
+LineColor1=884682
+LineColor2=7DA0B4
+HistColor=5B507A
+HDDcolorused=884682
+HDDcolorfree=B9E28C
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
 
 ;=====================|   GADGET COLORS   |====================
@@ -39,9 +39,9 @@ FontSize2=9
 FontSizeS=7
 
 ; color palette
-PaletteColor1=ED254E
-PaletteColor2=CFD4DD
-PaletteColor3=C5D86D
+PaletteColor1=884682
+PaletteColor2=7DA0B4
+PaletteColor3=B9E28C
 
 ;=====================|   STYLES   |=====================
 
