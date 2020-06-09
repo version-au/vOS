@@ -1,0 +1,92 @@
+[Variables]
+
+;CPU Motherboard's sensors
+
+; CPU Temperature Motherboard's sensor "HWiNFO-MOBO-CPU-Temp"
+HWiNFO-MOBO-CPU-Temp-SensorId=0xf7067980
+HWiNFO-MOBO-CPU-Temp-SensorInstance=0x0
+HWiNFO-MOBO-CPU-Temp-EntryId=0x1000007
+;GPU0
+; GPU0 Core usage sensor "HWiNFO-GPU0-Usage"
+HWiNFO-GPU0-Usage-SensorId=0xe0002000
+HWiNFO-GPU0-Usage-SensorInstance=0x0
+HWiNFO-GPU0-Usage-EntryId=0x7000000
+; GPU0 Temperature sensor "HWiNFO-GPU0-Temp"
+HWiNFO-GPU0-Temp-SensorId=0xe0002000
+HWiNFO-GPU0-Temp-SensorInstance=0x0
+HWiNFO-GPU0-Temp-EntryId=0x1000000
+; GPU0 Fan rpm sensor "HWiNFO-GPU0-FanRPM"
+HWiNFO-GPU0-FanRPM-SensorId=0xe0002000
+HWiNFO-GPU0-FanRPM-SensorInstance=0x0
+HWiNFO-GPU0-FanRPM-EntryId=0x3000000
+;FANS Skin
+;CHA1
+HWiNFO-FANS-CHA1-SensorId=0xf7067980
+HWiNFO-FANS-CHA1-SensorInstance=0x0
+HWiNFO-FANS-CHA1-EntryId=0x3000000
+;CHA2
+HWiNFO-FANS-CHA2-SensorId=0xf7067980
+HWiNFO-FANS-CHA2-SensorInstance=0x0
+HWiNFO-FANS-CHA2-EntryId=0x3000002
+;CHA3
+HWiNFO-FANS-CHA3-SensorId=0xf7067980
+HWiNFO-FANS-CHA3-SensorInstance=0x0
+HWiNFO-FANS-CHA3-EntryId=0x3000003
+;CHA4
+HWiNFO-FANS-CHA4-SensorId=0xf5000650
+HWiNFO-FANS-CHA4-SensorInstance=0x0
+HWiNFO-FANS-CHA4-EntryId=0x3000000
+;CHA5
+HWiNFO-FANS-CHA5-SensorId=0xf5000650
+HWiNFO-FANS-CHA5-SensorInstance=0x0
+HWiNFO-FANS-CHA5-EntryId=0x3000000
+;CPU
+HWiNFO-FANS-CPU-SensorId=0xf7067980
+HWiNFO-FANS-CPU-SensorInstance=0x0
+HWiNFO-FANS-CPU-EntryId=0x3000001
+;GPU0
+HWiNFO-FANS-GPU0-SensorId=0xe0002000
+HWiNFO-FANS-GPU0-SensorInstance=0x0
+HWiNFO-FANS-GPU0-EntryId=0x3000000
+;PUMP1
+HWiNFO-FANS-PUMP1-SensorId=0xf5000650
+HWiNFO-FANS-PUMP1-SensorInstance=0x0
+HWiNFO-FANS-PUMP1-EntryId=0x3000000
+;WPUMP
+HWiNFO-FANS-WPUMP1-SensorId=0xf5000650
+HWiNFO-FANS-WPUMP1-SensorInstance=0x0
+HWiNFO-FANS-WPUMP1-EntryId=0x3000000
+;RAM
+HWiNFO-RAM0-TEMP-SensorId=0xf3000002
+HWiNFO-RAM0-TEMP-SensorInstance=0x0
+HWiNFO-RAM0-TEMP-EntryId=0x1000000
+HWiNFO-MOBO-CPU-Fan-SensorId=0xf7067980
+HWiNFO-MOBO-CPU-Fan-SensorInstance=0x0
+HWiNFO-MOBO-CPU-Fan-EntryId=0x3000001
+
+
+[HWiNFO-Config-CPU]
+HWiNFO-MOBO-CPU-Fan=CPU Fan Motherboard's sensor (RPM)
+HWiNFO-MOBO-CPU-Temp=CPU Temperature Motherboard's sensor (degrees)
+
+;[HWiNFO-Config-CPU0-DTS]
+;HWiNFO-CPU0-DTS-CoreMax=CPU Temperature (MAX among cores) (degrees)
+
+[HWiNFO-Config-GPU0]
+HWiNFO-GPU0-Usage=GPU Core load (%)
+HWiNFO-GPU0-Temp=GPU Temperature (degrees)
+HWiNFO-GPU0-FanRPM=GPU Fan (RPM)
+
+[HWiNFO-Config-FANS]
+HWiNFO-FANS-CHA1=Chassis 1 Fan
+HWiNFO-FANS-CHA2=Chassis 2 Fan
+HWiNFO-FANS-CHA3=Chassis 3 Fan
+HWiNFO-FANS-CHA4=Chassis 4 Fan
+HWiNFO-FANS-CHA5=Chassis 5 Fan
+HWiNFO-FANS-CPU=CPU Fan
+HWiNFO-FANS-GPU0=GPU0 Fan (1st GPU)
+HWiNFO-FANS-PUMP1=Pump 1 Fan
+HWiNFO-FANS-WPUMP1=Water Pump 1 Fan
+
+[HWiNFO-Config-RAM]
+HWiNFO-RAM0-TEMP=Ram 1 Temp
