@@ -1,0 +1,33 @@
+Fully supported players
+
+The following players are fully supported. All features should work unless stated otherwise.
+
+    AIMP: PlayerName=AIMP
+    Fully supported. Tested with AIMP 2.61.
+    foobar2000: PlayerName=CAD
+    Fully supported. The foo_cad plugin (download) needs to be installed.
+    iTunes: PlayerName=iTunes
+    Fully supported. Tested with iTunes 10.2.
+    J. River Media Center and Media Jukebox: PlayerName=CAD
+    Fully supported through the CAD interface with Media Center 19 and later. More information here.
+    MediaMonkey: PlayerName=MediaMonkey
+    Fully supported. Tested with MediaMonkey 3.2.5.
+    MusicBee: PlayerName=CAD
+    Fully supported. MusicBee 1.2 (or higher) is required.
+    Winamp: PlayerName=Winamp
+    Fully supported.
+    WMP: PlayerName=WMP
+    Fully supported, except for the Repeat / Shuffle types.
+
+Partially supported players
+
+The following players are partially supported. Only some features will work.
+
+    Spotify: PlayerName=Spotify
+    Partially supported. Only the types Artist, Track and the bangs Play, PlayPause, Stop, Next, and Previous are available.
+    Last.fm Client, TTPlayer, OpenPandora, Zune: PlayerName=WLM
+    Partially supported. Even in the best case, only the types Title, Artist, Album and the bangs Play, Pause, PlayPause, Next, Previous, Stop are supported.
+
+
+PLAYER CODES are the codes after the = sign. E.g AIMP or CAD.
+Copy and paste these into settings to change which player you use.
