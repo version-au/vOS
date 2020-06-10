@@ -2,15 +2,15 @@
 
 ;=====================|   FONTS   |=====================
 FONT=Roboto Medium
-;;;;;;TITLE TEXT;;;;;;
-TEXTGREY=ED254E
-TITLESIZE=12
-;;;;;;LOAD TEXT;;;;;;
-TEXTDARKGREY=C5D86D
-LOADSIZE=14
-;;;;;;FAN RPM TEXT;;;;;;
-FANRPMTEXT=C5D86D
-FANRPMSIZE=7
+;;;;;;DARK TEXT;;;;;;
+TEXTMAINDARK=ED254E
+TEXTMAINDARKSIZE=12
+;;;;;;LIGHT TEXT;;;;;;
+TEXTMAINLIGHT=C5D86D
+TEXTMAINLIGHTSIZE=14
+;;;;;;MISC TEXT;;;;;;
+TEXTMISC=C5D86D
+TEXTMISCSIZE=7
 
 ;=====================|   COLORS   |=====================
 
@@ -51,9 +51,9 @@ AntiAlias=1
 LineWidth=2
 GraphOrientation=Vertical
 
-[styleGreyBoldText]
-FontColor=#TEXTGREY#
-FontSize=#TITLESIZE#
+[styleMAINDARKText]
+FontColor=#TEXTMAINDARK#
+FontSize=#TEXTMAINDARKSIZE#
 FontFace=#FONT#
 StringAlign=RIGHT
 AntiAlias=1
@@ -61,9 +61,9 @@ StringStyle=BOLD
 StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
-[styleLoadBoldText]
-FontColor=#TEXTDARKGREY#
-FontSize=#LOADSIZE#
+[styleMAINLIGHTText]
+FontColor=#TEXTMAINLIGHT#
+FontSize=#TEXTMAINLIGHTSIZE#
 FontFace=#FONT#
 StringAlign=RIGHT
 AntiAlias=1
@@ -71,9 +71,9 @@ StringStyle=BOLD
 StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
-[styleFanBoldText]
-FontColor=#FANRPMTEXT#
-FontSize=#FANRPMSIZE#
+[styleMISCText]
+FontColor=#TEXTMISC#
+FontSize=#TEXTMISCSIZE#
 FontFace=#FONT#
 StringAlign=RIGHT
 AntiAlias=1
