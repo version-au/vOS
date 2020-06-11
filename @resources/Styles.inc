@@ -23,8 +23,29 @@ LineColor2=C5D86D
 HistColor=2C2B3C
 HDDcolorused=ED254E
 HDDcolorfree=C5D86D
-Throbberhide=0,0,0,0
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
+
+;=====================|   THROBBER HIDING   |=====================
+
+CPUBAR=#SysBarColor#00
+RAMBAR=#SysBarColor#00
+TOPCPU=#SysBarColor#
+TOPRAM=#SysBarColor#
+GPUBAR=#SysBarColor#00
+TOPGPU=#SysBarColor#
+CLOCKBAR=#SysBarColor#
+FPSBAR=#SysBarColor#
+FANBAR=#SysBarColor#00
+MUSICBAR=#SysBarColor#00
+KITTEHBAR=#SysBarColor#00
+RECYCLEBAR=#SysBarColor#
+WEATHERBAR=#SysBarColor#00
+APPBAR=#SysBarColor#
+APPSLIDE1=#SysBarColor#00
+APPSLIDE2=#SysBarColor#
+APPSLIDE3=#SysBarColor#
+NETBAR=#SysBarColor#00
+DRIVEBAR=#SysBarColor#00
 
 ;=====================|   GADGET COLORS   |====================
 
