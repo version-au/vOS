@@ -23,6 +23,7 @@ LineColor2=C5D86D
 HistColor=2C2B3C
 HDDcolorused=ED254E
 HDDcolorfree=C5D86D
+Throbberhide=0,0,0,0
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
 
 ;=====================|   GADGET COLORS   |====================
