@@ -11,6 +11,9 @@ TEXTMAINLIGHTSIZE=14
 ;;;;;;MISC TEXT;;;;;;
 TEXTMISC=C5D86D
 TEXTMISCSIZE=7
+;;;;;;SMALL TEXT;;;;;;
+TEXTSMALLCOLOR=#StrokeMainColor#
+TEXTSMALLSIZE=10
 
 ;=====================|   COLORS   |=====================
 
@@ -24,7 +27,7 @@ HistColor=2C2B3C
 HDDcolorused=ED254E
 HDDcolorfree=C5D86D
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
-
+BarGradient=90 | #GradColor1# ; 0.0 | #GradColor2#00 ; 1.0
 ;=====================|   THROBBER HIDING   |=====================
 
 CPUBAR=#SysBarColor#00
@@ -47,7 +50,7 @@ APPSLIDE3=#SysBarColor#
 NETBAR=#SysBarColor#
 DRIVEBAR=#SysBarColor#00
 VOLUMEBAR=#SysBarColor#00
-
+VISUALIZERBAR=#SysBarColor#00
 ;=====================|   GADGET COLORS   |====================
 
 ; font appearance
@@ -101,5 +104,15 @@ FontFace=#FONT#
 StringAlign=RIGHT
 AntiAlias=1
 StringStyle=BOLD
+StringEffect=Shadow
+FontEffectColor=0,0,0,80
+
+[styleSmallText]
+FontColor=#TEXTSMALLCOLOR#
+FontSize=#TEXTSMALLSIZE#
+FontFace=#FONT#
+StringAlign=LEFT
+AntiAlias=1
+StringStyle=Normal
 StringEffect=Shadow
 FontEffectColor=0,0,0,80
