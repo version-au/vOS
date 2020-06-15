@@ -51,7 +51,12 @@ APPSLIDE1=#SysBarColor#00
 APPSLIDE2=#SysBarColor#
 APPSLIDE3=#SysBarColor#
 NETBAR=#SysBarColor#
-DRIVEBAR=#SysBarColor#00
+DRIVEBARAUTO=#SysBarColor#
+DRIVEBAR1=#SysBarColor#00
+DRIVEBAR2=#SysBarColor#00
+DRIVEBAR3=#SysBarColor#00
+DRIVEBAR4=#SysBarColor#00
+DRIVEBAR5=#SysBarColor#00
 VOLUMEBAR=#SysBarColor#00
 VISUALIZERBAR=#SysBarColor#00
 ;=====================|   GADGET COLORS   |====================
