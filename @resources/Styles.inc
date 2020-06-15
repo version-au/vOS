@@ -59,6 +59,7 @@ DRIVEBAR4=#SysBarColor#00
 DRIVEBAR5=#SysBarColor#00
 VOLUMEBAR=#SysBarColor#00
 VISUALIZERBAR=#SysBarColor#00
+FARBAR=#SysBarColor#00
 ;=====================|   GADGET COLORS   |====================
 
 ; font appearance
