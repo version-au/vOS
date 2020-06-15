@@ -35,6 +35,8 @@ Drive4=F:
 Drive5=G:
 Drive6=H:
 Drive7=I:
+Drive8=S:
+Drive9=B:
 
 ;=====================|   NET   |====================
 

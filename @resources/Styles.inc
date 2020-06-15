@@ -27,7 +27,10 @@ HistColor=2C2B3C
 HDDcolorused=ED254E
 HDDcolorfree=C5D86D
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
-BarGradient=90 | #GradColor1# ; 0.0 | #GradColor2#00 ; 1.0
+BarGradient=90 | #GradColor1#CC ; 0.0 | #GradColor2#00 ; 1.0
+CircleGradient=0,0 | #GradColor1#CC ; -0.2 | #GradColor2#00 ; 1.5
+BarHideGradient=0,0 | #GradColor1# ; 0.3 | #GradColor2# ; 1.3
+MeterStrokeGradient=0 | #GradColor2# ; 0.0 | #GradColor1# ; 1.0
 ;=====================|   THROBBER HIDING   |=====================
 
 CPUBAR=#SysBarColor#00
@@ -40,7 +43,7 @@ CLOCKBAR=#SysBarColor#
 FPSBAR=#SysBarColor#
 FANBAR=#SysBarColor#00
 MUSICBAR=#SysBarColor#00
-KITTEHBAR=#SysBarColor#00
+KITTEHBAR=#SysBarColor#
 RECYCLEBAR=#SysBarColor#
 WEATHERBAR=#SysBarColor#00
 APPBAR=#SysBarColor#
