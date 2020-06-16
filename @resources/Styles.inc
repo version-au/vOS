@@ -14,6 +14,7 @@ TEXTMISCSIZE=7
 ;;;;;;SMALL TEXT;;;;;;
 TEXTSMALLCOLOR=#StrokeMainColor#
 TEXTSMALLSIZE=10
+TEXTSUPERSMALLSIZE=9
 
 ;=====================|   COLORS   |=====================
 
@@ -31,6 +32,7 @@ BarGradient=90 | #GradColor1#CC ; 0.0 | #GradColor2#00 ; 1.0
 CircleGradient=0,0 | #GradColor1#CC ; -0.2 | #GradColor2#00 ; 1.5
 BarHideGradient=0,0 | #GradColor1# ; 0.3 | #GradColor2# ; 1.3
 MeterStrokeGradient=0 | #GradColor2# ; 0.0 | #GradColor1# ; 1.0
+PopoutSepGrad=0,0 | #TEXTMAINLIGHT# ; 0.5 | #TEXTMAINLIGHT#4D ; 1.5
 ;=====================|   THROBBER HIDING   |=====================
 
 CPUBAR=#SysBarColor#00
@@ -120,6 +122,26 @@ FontEffectColor=0,0,0,80
 FontColor=#TEXTSMALLCOLOR#
 FontSize=#TEXTSMALLSIZE#
 FontFace=#FONT#
+StringAlign=LEFT
+AntiAlias=1
+StringStyle=Normal
+StringEffect=Shadow
+FontEffectColor=0,0,0,80
+
+[styleSmallLightText]
+FontColor=#TEXTMAINLIGHT#
+FontSize=#TEXTSUPERSMALLSIZE#
+FontFace=Roboto
+StringAlign=LEFT
+AntiAlias=1
+StringStyle=Normal
+StringEffect=Shadow
+FontEffectColor=0,0,0,80
+
+[styleSmallDarkText]
+FontColor=#TEXTMAINDARK#
+FontSize=#TEXTSUPERSMALLSIZE#
+FontFace=Roboto
 StringAlign=LEFT
 AntiAlias=1
 StringStyle=Normal
