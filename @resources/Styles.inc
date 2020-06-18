@@ -33,6 +33,11 @@ CircleGradient=0,0 | #GradColor1#CC ; -0.2 | #GradColor2#00 ; 1.5
 BarHideGradient=0,0 | #GradColor1# ; 0.3 | #GradColor2# ; 1.3
 MeterStrokeGradient=0 | #GradColor2# ; 0.0 | #GradColor1# ; 1.0
 PopoutSepGrad=0,0 | #TEXTMAINLIGHT# ; 0.5 | #TEXTMAINLIGHT#4D ; 1.5
+
+;Group Indicator Gradients
+Group1Indicator=0,0 | #PaletteColor1# ; -0.1 | #PaletteColor1#1A ; 0.5
+Group2Indicator=0,0 | #PaletteColor2# ; -0. | #PaletteColor2#1A ; 0.5
+Group3Indicator=0,0 | #PaletteColor3# ; -0. | #PaletteColor3#1A ; 0.5
 ;=====================|   THROBBER HIDING   |=====================
 
 CPUBAR=#SysBarColor#00
@@ -41,7 +46,7 @@ TOPCPU=#SysBarColor#
 TOPRAM=#SysBarColor#
 GPUBAR=#SysBarColor#00
 TOPGPU=#SysBarColor#
-CLOCKBAR=#SysBarColor#
+CLOCKBAR=#SysBarColor#00
 FPSBAR=#SysBarColor#
 FANBAR=#SysBarColor#00
 MUSICBAR=#SysBarColor#00
