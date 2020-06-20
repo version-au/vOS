@@ -3,30 +3,60 @@
 ;=====================|   FONTS   |=====================
 FONT=Roboto Medium
 ;;;;;;DARK TEXT;;;;;;
-TEXTMAINDARK=ED254E
+TEXTMAINDARK=#COLOR4#
 TEXTMAINDARKSIZE=12
 ;;;;;;LIGHT TEXT;;;;;;
-TEXTMAINLIGHT=C5D86D
+TEXTMAINLIGHT=#COLOR5#
 TEXTMAINLIGHTSIZE=14
 ;;;;;;MISC TEXT;;;;;;
-TEXTMISC=C5D86D
+TEXTMISC=#COLOR5#
 TEXTMISCSIZE=7
 ;;;;;;SMALL TEXT;;;;;;
-TEXTSMALLCOLOR=#StrokeMainColor#
+TEXTSMALLCOLOR=#COLOR2#
 TEXTSMALLSIZE=10
 TEXTSUPERSMALLSIZE=9
 
-;=====================|   COLORS   |=====================
+;=====================|   6 MAIN COLORS   |=====================
 
-SysBarColor=1B2432
-StrokeMainColor=CFD4DD
-GradColor1=403F4C
-GradColor2=1B2432
-LineColor1=ED254E
-LineColor2=C5D86D
-HistColor=2C2B3C
-HDDcolorused=ED254E
-HDDcolorfree=C5D86D
+COLOR1=1B2432
+;SysBarColor
+;GradColor2
+
+COLOR2=CFD4DD
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+
+COLOR3=403F4C
+;GradColor1
+
+COLOR4=ED254E
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+
+COLOR5=C5D86D
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+
+COLOR6=2C2B3C
+;HistColor
+
+;=====================|   DISTRIBUTE COLORS   |=====================
+
+SysBarColor=#COLOR1#
+StrokeMainColor=#COLOR2#
+GradColor1=#COLOR3#
+GradColor2=#COLOR1#
+LineColor1=#COLOR4#
+LineColor2=#COLOR5#
+HistColor=#COLOR6#
+HDDcolorused=#COLOR4#
+HDDcolorfree=#COLOR5#
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
 BarGradient=90 | #GradColor1#CC ; 0.0 | #GradColor2#00 ; 1.0
 CircleGradient=0,0 | #GradColor1#CC ; -0.2 | #GradColor2#00 ; 1.5
@@ -81,9 +111,9 @@ FontSize2=9
 FontSizeS=7
 
 ; color palette
-PaletteColor1=ED254E
-PaletteColor2=CFD4DD
-PaletteColor3=C5D86D
+PaletteColor1=#COLOR4#
+PaletteColor2=#COLOR2#
+PaletteColor3=#COLOR5#
 
 ;=====================|   STYLES   |=====================
 
