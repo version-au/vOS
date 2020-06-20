@@ -28,15 +28,15 @@ AppPath3=C:\Users\steve\Downloads\
 
 ;=====================|   HDDS   |====================
 
-Drive1=C:
-Drive2=D:
-Drive3=E:
-Drive4=F:
-Drive5=G:
-Drive6=H:
-Drive7=I:
-Drive8=S:
-Drive9=B:
+Drive1=C
+Drive2=D
+Drive3=E
+Drive4=F
+Drive5=G
+Drive6=H
+Drive7=I
+Drive8=S
+Drive9=B
 
 ;=====================|   NET   |====================
 
