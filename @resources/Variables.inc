@@ -19,6 +19,10 @@ SpeedUnit=Mph
 PressureUnit=Mb
 VisibilityUnit=Km
 
+;=====================|   APP VOLUME EXCLUDED   |====================
+
+VOLUMEEXCLUDED=rainmeter.exe;Discord.exe;steam.exe
+
 ;=====================|   APPBAR VIEW   |=====================
 
 AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
