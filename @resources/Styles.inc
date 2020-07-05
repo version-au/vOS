@@ -18,7 +18,7 @@ TEXTSUPERSMALLSIZE=9
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=1B2432
+COLOR1=130F0E
 ;SysBarColor
 ;GradColor2
 
@@ -27,23 +27,23 @@ COLOR2=CFD4DD
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=403F4C
+COLOR3=52BDDC
 ;GradColor1
 
-COLOR4=ED254E
+COLOR4=FBED09
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=C5D86D
+COLOR5=83F1FA
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=2C2B3C
+COLOR6=EFE800
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================

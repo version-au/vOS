@@ -269,3 +269,33 @@ PRESET9COLOR5=B9E28C
 
 PRESET9COLOR6=76679E
 ;HistColor
+
+;=====================|   PRESET COLOR 10  |=====================
+
+PRESET10COLOR1=130F0E
+;SysBarColor
+;GradColor2
+
+PRESET10COLOR2=CFD4DD
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+
+PRESET10COLOR3=52BDDC
+;GradColor1
+
+PRESET10COLOR4=FBED09
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+
+PRESET10COLOR5=83F1FA
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+
+PRESET10COLOR6=EFE800
+;HistColor

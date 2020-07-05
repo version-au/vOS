@@ -34,11 +34,11 @@ AppPath3=C:\Users\steve\Downloads\
 
 Drive1=C
 Drive2=D
-Drive3=E
-Drive4=F
-Drive5=G
-Drive6=H
-Drive7=I
+Drive3=F
+Drive4=G
+Drive5=
+Drive6=
+Drive7=
 Drive8=S
 Drive9=B
 
