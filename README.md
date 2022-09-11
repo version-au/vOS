@@ -25,3 +25,5 @@ This is my first Rainmeter skin so a lot of code was initially borrowed from oth
 Right click on Music player to enable WEB play or LOCAL play. Other settings for skins can be accessed with the right click menu. Web player works well with Youtube. Haven't tested it with anything else.
 
 Some skins have an additional menu that will show more stats.
+
+- version
