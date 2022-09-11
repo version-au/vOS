@@ -35,8 +35,8 @@ Description=Drive Information for vOS bar setup
 [VARIABLES]
 @include=#@#Styles.inc
 @include2=#@#Variables.inc
-DragGroup=
-NumberOfDrives=5
+DragGroup=2
+NumberOfDrives=4
 ; --------------------------------------------------------------------------------
 ; ---------- SHAPES --------------------------------------------------------------
 ; --------------------------------------------------------------------------------

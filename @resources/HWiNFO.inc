@@ -3,9 +3,9 @@
 ;CPU Motherboard's sensors
 
 ; CPU Temperature Motherboard's sensor "HWiNFO-MOBO-CPU-Temp"
-HWiNFO-MOBO-CPU-Temp-SensorId=0xf7067980
+HWiNFO-MOBO-CPU-Temp-SensorId=0xf0000501
 HWiNFO-MOBO-CPU-Temp-SensorInstance=0x0
-HWiNFO-MOBO-CPU-Temp-EntryId=0x1000007
+HWiNFO-MOBO-CPU-Temp-EntryId=0x1000000
 ;HWiNFOCPUAvgClock
 HWiNFO-CPU0-AvgClock-SensorId=0xf0000300
 HWiNFO-CPU0-AvgClock-SensorInstance=0x0
@@ -15,9 +15,9 @@ HWiNFO-CPU0-CPUCurrent-SensorId=0xf0000501
 HWiNFO-CPU0-CPUCurrent-SensorInstance=0x0
 HWiNFO-CPU0-CPUCurrent-EntryId=0x4000000
 ;HWiNFOCPUVcore
-HWiNFO-CPU0-CPUVcore-SensorId=0xf7067980
+HWiNFO-CPU0-CPUVcore-SensorId=0xf0000501
 HWiNFO-CPU0-CPUVcore-SensorInstance=0x0
-HWiNFO-CPU0-CPUVcore-EntryId=0x2000000
+HWiNFO-CPU0-CPUVcore-EntryId=0x2000002
 ;HWiNFOCPUFCLK
 HWiNFO-CPU0-CPUFCLK-SensorId=0xf0000501
 HWiNFO-CPU0-CPUFCLK-SensorInstance=0x0
@@ -25,24 +25,24 @@ HWiNFO-CPU0-CPUFCLK-EntryId=0x6000000
 
 ;GPU0
 ; GPU0 Temperature sensor "HWiNFO-GPU0-Temp"
-HWiNFO-GPU0-Temp-SensorId=0xe0002000
+HWiNFO-GPU0-Temp-SensorId=0xe0001800
 HWiNFO-GPU0-Temp-SensorInstance=0x0
-HWiNFO-GPU0-Temp-EntryId=0x1000000
+HWiNFO-GPU0-Temp-EntryId=0x100000a
 ; GPU0 Fan rpm sensor "HWiNFO-GPU0-FanRPM"
-HWiNFO-GPU0-FanRPM-SensorId=0xe0002000
+HWiNFO-GPU0-FanRPM-SensorId=0xf7067980
 HWiNFO-GPU0-FanRPM-SensorInstance=0x0
-HWiNFO-GPU0-FanRPM-EntryId=0x3000000
+HWiNFO-GPU0-FanRPM-EntryId=0x3000003
 ; GPU0 Core usage sensor "HWiNFO-GPU0-Usage"
-HWiNFO-GPU0-Usage-SensorId=0xe0002000
+HWiNFO-GPU0-Usage-SensorId=0xe0001800
 HWiNFO-GPU0-Usage-SensorInstance=0x0
 HWiNFO-GPU0-Usage-EntryId=0x7000000
 
 ; GPU0 Clock sensor "HWiNFO-GPU0-Clock"
-HWiNFO-GPU0-Clock-SensorId=0xe0002000
+HWiNFO-GPU0-Clock-SensorId=0xe0001800
 HWiNFO-GPU0-Clock-SensorInstance=0x0
 HWiNFO-GPU0-Clock-EntryId=0x6000000
 ; GPU0 Memory clock sensor "HWiNFO-GPU0-MemClock"
-HWiNFO-GPU0-MemClock-SensorId=0xe0002000
+HWiNFO-GPU0-MemClock-SensorId=0xe0001800
 HWiNFO-GPU0-MemClock-SensorInstance=0x0
 HWiNFO-GPU0-MemClock-EntryId=0x6000004
 ; GPU0 Video clock sensor "HWiNFO-GPU0-VidClock"
@@ -55,9 +55,9 @@ HWiNFO-GPU0-MemAlloc-SensorId=0xe0002000
 HWiNFO-GPU0-MemAlloc-SensorInstance=0x0
 HWiNFO-GPU0-MemAlloc-EntryId=0x80000fc
 ; GPU0 Memory usage percent "HWiNFO-GPU0-MemUsg"
-HWiNFO-GPU0-MemUsg-SensorId=0xe0002000
+HWiNFO-GPU0-MemUsg-SensorId=0xe0001800
 HWiNFO-GPU0-MemUsg-SensorInstance=0x0
-HWiNFO-GPU0-MemUsg-EntryId=0x7000008
+HWiNFO-GPU0-MemUsg-EntryId=0x8000004
 ; GPU0 VR Usage "HWiNFO-GPU0-VRuse"
 HWiNFO-GPU0-VRuse-SensorId=0xe0002000
 HWiNFO-GPU0-VRuse-SensorInstance=0x0
@@ -67,23 +67,21 @@ HWiNFO-GPU0-VRuse-EntryId=0x7000028
 ;CHA1
 HWiNFO-FANS-CHA1-SensorId=0xf7067980
 HWiNFO-FANS-CHA1-SensorInstance=0x0
-HWiNFO-FANS-CHA1-EntryId=0x3000000
+HWiNFO-FANS-CHA1-EntryId=0x3000004
 ;CHA2
 HWiNFO-FANS-CHA2-SensorId=0xf7067980
 HWiNFO-FANS-CHA2-SensorInstance=0x0
 HWiNFO-FANS-CHA2-EntryId=0x3000002
 ;CHA3
-HWiNFO-FANS-CHA3-SensorId=0xf7067980
-HWiNFO-FANS-CHA3-SensorInstance=0x0
-HWiNFO-FANS-CHA3-EntryId=0x3000003
+
 ;CPU
 HWiNFO-FANS-CPU-SensorId=0xf7067980
 HWiNFO-FANS-CPU-SensorInstance=0x0
 HWiNFO-FANS-CPU-EntryId=0x3000001
 ;GPU0
-HWiNFO-FANS-GPU0-SensorId=0xe0002000
+HWiNFO-FANS-GPU0-SensorId=0xf7067980
 HWiNFO-FANS-GPU0-SensorInstance=0x0
-HWiNFO-FANS-GPU0-EntryId=0x3000000
+HWiNFO-FANS-GPU0-EntryId=0x3000003
 ;RAM
 HWiNFO-RAM0-TEMP-SensorId=0xf3000002
 HWiNFO-RAM0-TEMP-SensorInstance=0x0
@@ -97,6 +95,12 @@ HWiNFO-RAM2-TEMP-EntryId=0x1000002
 HWiNFO-RAM3-TEMP-SensorId=0xf3000002
 HWiNFO-RAM3-TEMP-SensorInstance=0x0
 HWiNFO-RAM3-TEMP-EntryId=0x1000003
+HWiNFO-FANS-CHA3-SensorId=0xf7067980
+HWiNFO-FANS-CHA3-SensorInstance=0x0
+HWiNFO-FANS-CHA3-EntryId=0x3000000
+HWiNFO-MOBO-CPU-Fan-SensorId=0xf7067980
+HWiNFO-MOBO-CPU-Fan-SensorInstance=0x0
+HWiNFO-MOBO-CPU-Fan-EntryId=0x3000001
 
 
 [HWiNFO-Config-CPU]

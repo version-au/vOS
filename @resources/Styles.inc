@@ -18,32 +18,32 @@ TEXTSUPERSMALLSIZE=9
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=130F0E
+COLOR1=011627
 ;SysBarColor
 ;GradColor2
 
-COLOR2=CFD4DD
+COLOR2=FDFFFC
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=52BDDC
+COLOR3=B91372
 ;GradColor1
 
-COLOR4=FBED09
+COLOR4=FF0022
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=83F1FA
+COLOR5=41EAD4
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=EFE800
+COLOR6=0090C1
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
@@ -76,19 +76,19 @@ TOPCPU=#SysBarColor#
 TOPRAM=#SysBarColor#
 GPUBAR=#SysBarColor#00
 TOPGPU=#SysBarColor#
-CLOCKBAR=#SysBarColor#00
+CLOCKBAR=#SysBarColor#
 FPSBAR=#SysBarColor#
 FANBAR=#SysBarColor#00
 MUSICBAR=#SysBarColor#00
 KITTEHBAR=#SysBarColor#
-RECYCLEBAR=#SysBarColor#
+RECYCLEBAR=#SysBarColor#00
 WEATHERBAR=#SysBarColor#00
 APPBAR=#SysBarColor#
 APPSLIDE1=#SysBarColor#00
 APPSLIDE2=#SysBarColor#
 APPSLIDE3=#SysBarColor#
-NETBAR=#SysBarColor#
-DRIVEBARAUTO=#SysBarColor#
+NETBAR=#SysBarColor#00
+DRIVEBARAUTO=#SysBarColor#00
 DRIVEBAR1=#SysBarColor#00
 DRIVEBAR2=#SysBarColor#00
 DRIVEBAR3=#SysBarColor#00
