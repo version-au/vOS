@@ -6,9 +6,25 @@
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw1
+
+[HWiNFO-MOBO-CPU-FREQ]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw0
 
+[HWiNFO-MOBO-CPU-AMPS]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw3
 
+[HWiNFO-MOBO-CPU-VCORE]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw2
 
 ;GPU0
 
@@ -16,7 +32,15 @@ RegValue=ValueRaw0
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw6
+RegValue=ValueRaw12
+
+[HWiNFO-GPU0-LOAD]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw13
+MinValue=0
+MaxValue=100
 
 
 ;FANS Skin
@@ -25,7 +49,7 @@ RegValue=ValueRaw6
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw1
+RegValue=ValueRaw4
 MinValue=0
 MaxValue=2000
 
@@ -34,7 +58,7 @@ MaxValue=2000
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw3
+RegValue=ValueRaw6
 MinValue=0
 MaxValue=1500
 
@@ -43,7 +67,7 @@ MaxValue=1500
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw2
+RegValue=ValueRaw5
 MinValue=0
 MaxValue=2000
 
@@ -52,7 +76,7 @@ MaxValue=2000
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw4
+RegValue=ValueRaw7
 MinValue=0
 MaxValue=2000
 
@@ -60,11 +84,29 @@ MaxValue=2000
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw7
+RegValue=ValueRaw10
 
 ;RAM
 [HWiNFO-RAM0-TEMP]
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw5
+RegValue=ValueRaw8
+
+[HWiNFO-RAM1-TEMP]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw9
+
+[HWiNFO-RAM2-TEMP]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw10
+
+[HWiNFO-RAM3-TEMP]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=ValueRaw11
