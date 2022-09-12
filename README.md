@@ -20,10 +20,15 @@ This is my first Rainmeter skin so a lot of code was initially borrowed from oth
 
 ## Installation
 
-> Install Plugins and skin and load which components you want to use. Open vOS settings by right clicking on a skin. Change the colors and other settings to match yours. You will need HWinfo to be able to get tempretures, GPU and Fan information. You can link these settings with your own once you install HWiNFO then click the HWiNFO icon in vOS settings.
+> Install Plugins and skin and load which components you want to use. Open vOS settings by right clicking on a skin. Change the colors and other settings to match yours. You will need HWinfo to be able to get tempretures, GPU and Fan information.
 
 Right click on Music player to enable WEB play or LOCAL play. Other settings for skins can be accessed with the right click menu. Web player works well with Youtube. Haven't tested it with anything else.
 
 Some skins have an additional menu that will show more stats.
+
+To setup HWINFO browse to vOS\@resources\HWiNFO.inc
+Information on how to enable and also find the value you need are here: https://docs.rainmeter.net/tips/hwinfo/
+
+Some of the features such as weather may not work as it has not been updated for some time.
 
 - version
