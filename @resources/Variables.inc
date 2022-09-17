@@ -113,3 +113,22 @@ Bumper.x=6
 Bumper.top=40
 ;Space on bottom of calendar
 Bumper.bottom=0
+
+
+;=====================|   HWINFO   |====================
+
+HWINFO1=ValueRaw0
+HWINFO2=ValueRaw1
+HWINFO3=ValueRaw2
+HWINFO4=ValueRaw3
+HWINFO5=ValueRaw5
+HWINFO6=ValueRaw6
+HWINFO7=ValueRaw7
+HWINFO8=ValueRaw8
+HWINFO9=ValueRaw9
+HWINFO10=ValueRaw10
+HWINFO11=ValueRaw11
+HWINFO12=ValueRaw12
+HWINFO13=ValueRaw13
+HWINFO14=ValueRaw14
+HWINFO15=ValueRaw4

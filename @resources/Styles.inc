@@ -14,36 +14,37 @@ TEXTMISCSIZE=7
 ;;;;;;SMALL TEXT;;;;;;
 TEXTSMALLCOLOR=#COLOR2#
 TEXTSMALLSIZE=10
-TEXTSUPERSMALLSIZE=9
+TEXTSUPERSMALLSIZE=8
+TEXTSETTINGSMALLSIZE=6
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=011627
+COLOR1=1B2432
 ;SysBarColor
 ;GradColor2
 
-COLOR2=FDFFFC
+COLOR2=CFD4DD
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=B91372
+COLOR3=403F4C
 ;GradColor1
 
-COLOR4=FF0022
+COLOR4=ED254E
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=41EAD4
+COLOR5=C5D86D
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=0090C1
+COLOR6=2C2B3C
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
@@ -156,6 +157,16 @@ FontEffectColor=0,0,0,80
 [styleSmallText]
 FontColor=#TEXTSMALLCOLOR#
 FontSize=#TEXTSMALLSIZE#
+FontFace=#FONT#
+StringAlign=LEFT
+AntiAlias=1
+StringStyle=Normal
+StringEffect=Shadow
+FontEffectColor=0,0,0,80
+
+[styleSettingSmallText]
+FontColor=#TEXTSMALLCOLOR#
+FontSize=#TEXTSETTINGSMALLSIZE#
 FontFace=#FONT#
 StringAlign=LEFT
 AntiAlias=1

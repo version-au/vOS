@@ -6,25 +6,31 @@
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw1
+RegValue=#HWINFO2#
 
 [HWiNFO-MOBO-CPU-FREQ]
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw0
+RegValue=#HWINFO1#
 
 [HWiNFO-MOBO-CPU-AMPS]
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw3
+RegValue=#HWINFO4#
 
 [HWiNFO-MOBO-CPU-VCORE]
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw2
+RegValue=#HWINFO3#
+
+[HWiNFO-MOBO-CPU-WATT]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=#HWINFO15#
 
 ;GPU0
 
@@ -49,7 +55,7 @@ MaxValue=100
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw4
+RegValue=#HWINFO5#
 MinValue=0
 MaxValue=2000
 
@@ -58,7 +64,7 @@ MaxValue=2000
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw6
+RegValue=#HWINFO7#
 MinValue=0
 MaxValue=1500
 
@@ -67,7 +73,7 @@ MaxValue=1500
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw5
+RegValue=#HWINFO6#
 MinValue=0
 MaxValue=2000
 
@@ -79,12 +85,6 @@ RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=ValueRaw7
 MinValue=0
 MaxValue=2000
-
-[HWiNFO-LOAD-GPU]
-Measure=Registry
-RegHKey=HKEY_CURRENT_USER
-RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=ValueRaw10
 
 ;RAM
 [HWiNFO-RAM0-TEMP]
