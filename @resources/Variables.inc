@@ -37,14 +37,14 @@ Drive2=D
 Drive3=E
 Drive4=F
 Drive5=B
-Drive6=S
+Drive6=
 Drive7=
 Drive8=
 Drive9=
 
 ;=====================|   NET   |====================
 
-MaxDownloadMbits=90
+MaxDownloadMbits=95
 MaxUploadMbits=7
 
 Interface=Best
@@ -117,7 +117,7 @@ Bumper.bottom=0
 
 ;=====================|   HWINFO   |====================
 
-HWINFO1=ValueRaw0
+HWINFO1=ValueRaw14
 HWINFO2=ValueRaw1
 HWINFO3=ValueRaw2
 HWINFO4=ValueRaw3
@@ -130,5 +130,10 @@ HWINFO10=ValueRaw10
 HWINFO11=ValueRaw11
 HWINFO12=ValueRaw12
 HWINFO13=ValueRaw13
-HWINFO14=ValueRaw14
+HWINFO14=ValueRaw18
 HWINFO15=ValueRaw4
+HWINFO16=ValueRaw14
+HWINFO17=ValueRaw15
+HWINFO18=ValueRaw16
+HWINFO19=ValueRaw17
+HWINFO20=Value19
