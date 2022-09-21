@@ -26,8 +26,12 @@ Right click on Music player to enable WEB play or LOCAL play. Other settings for
 
 Some skins have an additional menu that will show more stats.
 
-To setup HWINFO browse to vOS\@resources\HWiNFO.inc
-Information on how to enable and also find the value you need are here: https://docs.rainmeter.net/tips/hwinfo/
+The skin has been updated to support the new HWINFO report to gadget feature instead of shared memory.
+Right click a skin and select vOS Setting. At the HWINFO section take note of the sensors used and enable these in the HWINFO sensor settings. Read the link below for more info on this.
+- https://docs.rainmeter.net/tips/hwinfo/
+
+After setting up the sensors in HWINFO right click the vOS Settings window and select 'Display Sensors'
+Click the sensor name in the vOS Settings and enter the value shown from Display Sensors output. e.g ValueRaw4
 
 Some of the features such as weather may not work as it has not been updated for some time.
 
