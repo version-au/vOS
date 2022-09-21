@@ -84,7 +84,7 @@ MUSICBAR=#SysBarColor#00
 KITTEHBAR=#SysBarColor#
 RECYCLEBAR=#SysBarColor#00
 WEATHERBAR=#SysBarColor#00
-APPBAR=#SysBarColor#
+APPBAR=#SysBarColor#00
 APPSLIDE1=#SysBarColor#00
 APPSLIDE2=#SysBarColor#
 APPSLIDE3=#SysBarColor#
@@ -96,7 +96,7 @@ DRIVEBAR3=#SysBarColor#00
 DRIVEBAR4=#SysBarColor#00
 DRIVEBAR5=#SysBarColor#00
 VOLUMEBAR=#SysBarColor#00
-VISUALIZERBAR=#SysBarColor#00
+VISUALIZERBAR=#SysBarColor#
 FARBAR=#SysBarColor#00
 ;=====================|   GADGET COLORS   |====================
 

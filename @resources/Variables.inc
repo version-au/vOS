@@ -36,9 +36,9 @@ Drive1=C
 Drive2=D
 Drive3=E
 Drive4=F
-Drive5=B
-Drive6=
-Drive7=
+Drive5=G
+Drive6=B
+Drive7=S
 Drive8=
 Drive9=
 
