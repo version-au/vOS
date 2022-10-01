@@ -2,7 +2,7 @@
 
 ;=====================|   WEATHER   |=====================
 
-LocationCode=6a4333491655b599fccfb2e722ac263975b874d0b47e35c1324e0c2100612563
+LocationCode=
 
 TempSymbol=C
 MeasureName2=MeasureTempCelsius
