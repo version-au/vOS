@@ -137,3 +137,10 @@ HWINFO17=ValueRaw15
 HWINFO18=ValueRaw16
 HWINFO19=ValueRaw17
 HWINFO20=Value19
+
+;=====================|   FANS   |====================
+
+FAN1=2000
+FAN2=1500
+FAN3=2000
+FAN4=2000
