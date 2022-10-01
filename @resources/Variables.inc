@@ -4,20 +4,8 @@
 
 LocationCode=6a4333491655b599fccfb2e722ac263975b874d0b47e35c1324e0c2100612563
 
-
-URL=https://weather.com/#Language#/weather/today/l/#LocationCode#
-
-LanginUse=EnglishGB °C
-
-Language=en-GB
-
-DateFormat=%#d %h
-TimeFormat=
-
-
-SpeedUnit=Mph
-PressureUnit=Mb
-VisibilityUnit=Km
+TempSymbol=C
+MeasureName2=MeasureTempCelsius
 
 ;=====================|   APP VOLUME EXCLUDED   |====================
 
