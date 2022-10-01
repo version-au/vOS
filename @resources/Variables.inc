@@ -125,6 +125,8 @@ HWINFO17=ValueRaw15
 HWINFO18=ValueRaw16
 HWINFO19=ValueRaw17
 HWINFO20=Value19
+HWINFO21=Value20
+HWINFO22=Value21
 
 ;=====================|   FANS   |====================
 
