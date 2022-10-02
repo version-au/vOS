@@ -299,3 +299,33 @@ PRESET10COLOR5=83F1FA
 
 PRESET10COLOR6=EFE800
 ;HistColor
+
+;=====================|   PRESET COLOR 11  |=====================
+
+PRESET11COLOR1=202020
+;SysBarColor
+;GradColor2
+
+PRESET11COLOR2=61AFEF
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+
+PRESET11COLOR3=282C34
+;GradColor1
+
+PRESET11COLOR4=E06C75
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+
+PRESET11COLOR5=E5C07B
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+
+PRESET11COLOR6=98C379
+;HistColor

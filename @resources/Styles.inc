@@ -19,32 +19,32 @@ TEXTSETTINGSMALLSIZE=7
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=0F004D
+COLOR1=202020
 ;SysBarColor
 ;GradColor2
 
-COLOR2=00C3FF
+COLOR2=61AFEF
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=270046
+COLOR3=282C34
 ;GradColor1
 
-COLOR4=F70056
+COLOR4=E06C75
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=0077FF
+COLOR5=E5C07B
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=510092
+COLOR6=98C379
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
@@ -71,6 +71,8 @@ Group2Indicator=0,0 | #PaletteColor2# ; -0. | #PaletteColor2#1A ; 0.5
 Group3Indicator=0,0 | #PaletteColor3# ; -0. | #PaletteColor3#1A ; 0.5
 ;=====================|   THROBBER HIDING   |=====================
 
+CPUGADGET=#SysBarColor#00
+GPUGADGET=#SysBarColor#00
 CPUBAR=#SysBarColor#00
 RAMBAR=#SysBarColor#00
 TOPCPU=#SysBarColor#
