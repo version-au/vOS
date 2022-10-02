@@ -71,9 +71,10 @@ Group2Indicator=0,0 | #PaletteColor2# ; -0. | #PaletteColor2#1A ; 0.5
 Group3Indicator=0,0 | #PaletteColor3# ; -0. | #PaletteColor3#1A ; 0.5
 ;=====================|   THROBBER HIDING   |=====================
 
+RAMGADGET=#SysBarColor#00
 CPUGADGET=#SysBarColor#00
 GPUGADGET=#SysBarColor#00
-CPUBAR=#SysBarColor#00
+CPUBAR=#SysBarColor#
 RAMBAR=#SysBarColor#00
 TOPCPU=#SysBarColor#
 TOPRAM=#SysBarColor#
