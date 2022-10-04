@@ -9,7 +9,6 @@ Has a fairly large selection of skins from music players, weather, cpu, ram, gpu
 
 This is my first Rainmeter skin so a lot of code was initially borrowed from other skins. I still need to get a list together of all the people to thank.
 
-I have recently added full scaling support so it now looks great on 2k and 4k monitors.
 ## Screenshots
 
 ![alt text](https://i.imgur.com/RMc2tmY.png)
