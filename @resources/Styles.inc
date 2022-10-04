@@ -19,32 +19,32 @@ TEXTSETTINGSMALLSIZE=7
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=202020
+COLOR1=1B2432
 ;SysBarColor
 ;GradColor2
 
-COLOR2=61AFEF
+COLOR2=CFD4DD
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=282C34
+COLOR3=403F4C
 ;GradColor1
 
-COLOR4=E06C75
+COLOR4=ED254E
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=E5C07B
+COLOR5=C5D86D
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=98C379
+COLOR6=2C2B3C
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
@@ -80,17 +80,17 @@ TOPCPU=#SysBarColor#
 TOPRAM=#SysBarColor#
 GPUBAR=#SysBarColor#00
 TOPGPU=#SysBarColor#
-CLOCKBAR=#SysBarColor#
+CLOCKBAR=#SysBarColor#00
 FPSBAR=#SysBarColor#
 FANBAR=#SysBarColor#00
 MUSICBAR=#SysBarColor#00
-KITTEHBAR=#SysBarColor#
+KITTEHBAR=#SysBarColor#00
 RECYCLEBAR=#SysBarColor#00
 WEATHERBAR=#SysBarColor#00
 APPBAR=#SysBarColor#00
 APPSLIDE1=#SysBarColor#00
 APPSLIDE2=#SysBarColor#
-APPSLIDE3=#SysBarColor#
+APPSLIDE3=#SysBarColor#00
 NETBAR=#SysBarColor#00
 DRIVEBARAUTO=#SysBarColor#00
 DRIVEBAR1=#SysBarColor#00
@@ -110,7 +110,7 @@ ColorFontSubtitle2=255,246,42
 ColorInfoText1=237,231,216
 ColorInfoText2=201,205,209
 FontName=Arial
-FontSize1=7
+FontSize1=6
 FontSize2=9
 FontSizeS=7
 
