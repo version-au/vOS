@@ -19,32 +19,32 @@ TEXTSETTINGSMALLSIZE=7
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=011627
+COLOR1=202020
 ;SysBarColor
 ;GradColor2
 
-COLOR2=FDFFFC
+COLOR2=61AFEF
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=B91372
+COLOR3=282C34
 ;GradColor1
 
-COLOR4=FF0022
+COLOR4=E06C75
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=41EAD4
+COLOR5=E5C07B
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=0090C1
+COLOR6=98C379
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
@@ -71,6 +71,7 @@ Group2Indicator=0,0 | #PaletteColor2# ; -0. | #PaletteColor2#1A ; 0.5
 Group3Indicator=0,0 | #PaletteColor3# ; -0. | #PaletteColor3#1A ; 0.5
 ;=====================|   THROBBER HIDING   |=====================
 
+NETGADGET=#SysBarColor#00
 RAMGADGET=#SysBarColor#00
 CPUGADGET=#SysBarColor#00
 GPUGADGET=#SysBarColor#00
@@ -100,7 +101,6 @@ DRIVEBAR4=#SysBarColor#00
 DRIVEBAR5=#SysBarColor#00
 VOLUMEBAR=#SysBarColor#00
 VISUALIZERBAR=#SysBarColor#
-FARBAR=#SysBarColor#00
 ;=====================|   GADGET COLORS   |====================
 
 ; font appearance
