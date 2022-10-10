@@ -33,6 +33,6 @@ Right click a skin and select vOS Setting. At the HWINFO section take note of th
 After setting up the sensors in HWINFO right click the vOS Settings window and select 'Display Sensors'
 Click the sensor name in the vOS Settings and enter the value shown from Display Sensors output. e.g ValueRaw4
 
-Some of the features such as weather may not work as it has not been updated for some time.
+I have also added the ability to scale the skin. Scroll the mouse wheel when you have the cursor over the skin.
 
 - version
