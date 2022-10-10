@@ -43,7 +43,7 @@ PLAYERNAME=Spotify
 
 ;=====================|   HWINFO   |====================
 
-HWINFO1=ValueRaw14
+HWINFO1=ValueRaw0
 HWINFO2=ValueRaw1
 HWINFO3=ValueRaw2
 HWINFO4=ValueRaw3
@@ -52,11 +52,11 @@ HWINFO6=ValueRaw6
 HWINFO7=ValueRaw7
 HWINFO8=ValueRaw8
 HWINFO9=ValueRaw6
-HWINFO10=ValueRaw10
-HWINFO11=ValueRaw11
-HWINFO12=ValueRaw12
-HWINFO13=ValueRaw13
-HWINFO14=ValueRaw18
+HWINFO10=ValueRaw9
+HWINFO11=ValueRaw10
+HWINFO12=ValueRaw11
+HWINFO13=ValueRaw12
+HWINFO14=ValueRaw13
 HWINFO15=ValueRaw4
 HWINFO16=ValueRaw14
 HWINFO17=ValueRaw15
