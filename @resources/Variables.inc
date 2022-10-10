@@ -9,13 +9,13 @@ MeasureName2=MeasureTempCelsius
 
 ;=====================|   APP VOLUME EXCLUDED   |====================
 
-VOLUMEEXCLUDED=rainmeter.exe;Discord.exe;steam.exe
+;VOLUMEEXCLUDED=rainmeter.exe;Discord.exe;steam.exe
 
 ;=====================|   APPBAR VIEW   |=====================
 
-AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
-AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
-AppPath3=C:\Users\steve\Downloads\
+;AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
+;AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
+;AppPath3=C:\Users\steve\Downloads\
 
 
 ;=====================|   HDDS   |====================
@@ -51,7 +51,7 @@ HWINFO5=ValueRaw5
 HWINFO6=ValueRaw6
 HWINFO7=ValueRaw7
 HWINFO8=ValueRaw8
-HWINFO9=ValueRaw9
+HWINFO9=ValueRaw6
 HWINFO10=ValueRaw10
 HWINFO11=ValueRaw11
 HWINFO12=ValueRaw12
@@ -73,6 +73,6 @@ FAN1=2000
 FAN2=1500
 FAN3=2000
 FAN4=2000
-
+FAN5=2000
 ;=====================|   SCALING   |====================
 ScrollMouseIncrement=0.5

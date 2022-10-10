@@ -32,7 +32,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=#HWINFO15#
 
-;GPU0
+;-----------------------GPU--------------------------
 
 [HWiNFO-GPU0-Temp]
 Measure=Registry
@@ -40,13 +40,13 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=#HWINFO13#
 
-[HWiNFO-GPU0-LOAD]
-Measure=Registry
-RegHKey=HKEY_CURRENT_USER
-RegKey=SOFTWARE\HWiNFO64\VSB
-RegValue=#HWINFO14#
-MinValue=0
-MaxValue=100
+;[HWiNFO-GPU0-LOAD]
+;Measure=Registry
+;RegHKey=HKEY_CURRENT_USER
+;RegKey=SOFTWARE\HWiNFO64\VSB
+;RegValue=#HWINFO14#
+;MinValue=0
+;MaxValue=100
 
 [HWiNFO-GPU0-AMPS]
 Measure=Registry
@@ -78,7 +78,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=#HWINFO20#
 
-;FANS Skin
+;-----------------------FANS--------------------------
 ;CHA1
 [HWiNFO-FANS-CHA1]
 Measure=Registry
@@ -106,6 +106,15 @@ RegValue=#HWINFO6#
 MinValue=0
 MaxValue=#FAN3#
 
+;AIO
+[HWiNFO-FANS-AIO]
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey=SOFTWARE\HWiNFO64\VSB
+RegValue=#HWINFO9#
+MinValue=0
+MaxValue=#FAN5#
+
 ;GPU0
 [HWiNFO-FANS-GPU]
 Measure=Registry
@@ -115,6 +124,7 @@ RegValue=#HWINFO8#
 MinValue=0
 MaxValue=#FAN4#
 
+;-----------------------RAM--------------------------
 ;RAM
 [HWiNFO-RAM0-TEMP]
 Measure=Registry
@@ -140,6 +150,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=#HWINFO12#
 
+;-----------------------NET--------------------------
 ;NET
 [HWiNFO-NET-DOWN]
 Measure=Registry
@@ -153,6 +164,7 @@ RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=#HWINFO22#
 
+;-----------------------FPS--------------------------
 [HWiNFO-FPS]
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
