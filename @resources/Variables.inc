@@ -11,12 +11,12 @@ MeasureName2=MeasureTempCelsius
 
 ;VOLUMEEXCLUDED=rainmeter.exe;Discord.exe;steam.exe
 
-;=====================|   APPBAR VIEW   |=====================
+;=====================|   APPBAR   |=====================
 
-;AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
-;AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
-;AppPath3=C:\Users\steve\Downloads\
-
+AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
+AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
+AppPath3=C:\Users\steve\Downloads\
+APPBARSCALE=1.5
 
 ;=====================|   HDDS   |====================
 
