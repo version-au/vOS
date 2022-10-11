@@ -19,32 +19,32 @@ TEXTSETTINGSMALLSIZE=7
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=202020
+COLOR1=2E3440
 ;SysBarColor
 ;GradColor2
 
-COLOR2=61AFEF
+COLOR2=646870
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=282C34
+COLOR3=3B4252
 ;GradColor1
 
-COLOR4=E06C75
+COLOR4=BF616A
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=E5C07B
+COLOR5=D08770
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=98C379
+COLOR6=3B4252
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
@@ -91,7 +91,7 @@ WEATHERBAR=#SysBarColor#
 APPBAR=#SysBarColor#00
 APPSLIDE1=#SysBarColor#00
 APPSLIDE2=#SysBarColor#
-APPSLIDE3=#SysBarColor#00
+APPSLIDE3=#SysBarColor#
 NETBAR=#SysBarColor#00
 DRIVEBARAUTO=#SysBarColor#00
 DRIVEBAR1=#SysBarColor#00
