@@ -16,8 +16,11 @@ MeasureName2=MeasureTempCelsius
 AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
 AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
 AppPath3=C:\Users\steve\Downloads\
+AppPath4=C:\Users\steve\Documents\Shortcuts\Games\
+AppPath5=C:\Users\steve\Documents\Shortcuts\Applications\
+AppPath6=
 APPBARSCALE=1.5
-
+APPGADGETSCALE=1.5
 ;=====================|   HDDS   |====================
 
 Drive1=C
