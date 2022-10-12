@@ -7,10 +7,6 @@ LocationCode=
 TempSymbol=C
 MeasureName2=MeasureTempCelsius
 
-;=====================|   APP VOLUME EXCLUDED   |====================
-
-;VOLUMEEXCLUDED=rainmeter.exe;Discord.exe;steam.exe
-
 ;=====================|   APPBAR   |=====================
 
 AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
@@ -22,7 +18,7 @@ AppPath6=
 APPBARSCALE=1.5
 APPGADGETSCALE=1.5
 ;=====================|   HDDS   |====================
-
+NumberOfDrives=7
 Drive1=C
 Drive2=D
 Drive3=E

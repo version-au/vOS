@@ -71,8 +71,8 @@ Group2Indicator=0,0 | #PaletteColor2# ; -0. | #PaletteColor2#1A ; 0.5
 Group3Indicator=0,0 | #PaletteColor3# ; -0. | #PaletteColor3#1A ; 0.5
 ;=====================|   THROBBER HIDING   |=====================
 
-APPGADGET1=
-APPGADGET2=
+APPGADGET1=#SysBarColor#
+APPGADGET2=#SysBarColor#
 APPGADGET3=
 NETGADGET=#SysBarColor#
 RAMGADGET=#SysBarColor#
