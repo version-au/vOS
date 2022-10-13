@@ -13,7 +13,7 @@ This is my first Rainmeter skin so a lot of code was initially borrowed from oth
 
 ![alt text](https://i.imgur.com/RMc2tmY.png)
 
-![alt text](https://imgur.com/bhtzMF6)
+![alt text](https://i.imgur.com/bhtzMF6.jpg)
 
 ![alt text](https://i.imgur.com/q6u1jPj.png)
 
