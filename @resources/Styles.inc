@@ -19,36 +19,38 @@ TEXTSETTINGSMALLSIZE=7
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=202020
+COLOR1=1B2432
 ;SysBarColor
 ;GradColor2
 
-COLOR2=61AFEF
+COLOR2=CFD4DD
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=282C34
+COLOR3=403F4C
 ;GradColor1
 
-COLOR4=E06C75
+COLOR4=ED254E
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=E5C07B
+COLOR5=C5D86D
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=98C379
+COLOR6=2C2B3C
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
 
+GradColorPopup1=#COLOR3#
+GradColorPopup2=#COLOR1#
 SysBarColor=#COLOR1#
 StrokeMainColor=#COLOR2#
 GradColor1=#COLOR3#
@@ -59,8 +61,9 @@ HistColor=#COLOR6#
 HDDcolorused=#COLOR4#
 HDDcolorfree=#COLOR5#
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
-BarGradient=90 | #GradColor1#00 ; 0.0 | #GradColor2#00 ; 1.0
-CircleGradient=0,0 | #GradColor1#00 ; -0.2 | #GradColor2#00 ; 1.5
+MeterGradientPopup=90 | #GradColorPopup1#CC ; 0.0 | #GradColorPopup2#CC ; 1.0
+BarGradient=90 | #GradColor1#CC ; 0.0 | #GradColor2#00 ; 1.0
+CircleGradient=0,0 | #GradColor1#CC ; -0.2 | #GradColor2#00 ; 1.5
 BarHideGradient=0,0 | #GradColor1# ; 0.3 | #GradColor2# ; 1.3
 MeterStrokeGradient=0 | #GradColor2# ; 0.0 | #GradColor1# ; 1.0
 PopoutSepGrad=0,0 | #TEXTMAINLIGHT# ; 0.5 | #TEXTMAINLIGHT#4D ; 1.5
