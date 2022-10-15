@@ -1,4 +1,0 @@
-[Metadata]
-Name=Default
-Author=Smurfier
-Info=A basic style based off the old Enigma calendar.
