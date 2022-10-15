@@ -7,6 +7,9 @@ LocationCode=
 TempSymbol=C
 MeasureName2=MeasureTempCelsius
 
+;=====================|   CALENDAR   |=====================
+DefaultCalStyle=Default3
+
 ;=====================|   APPBAR   |=====================
 
 AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
