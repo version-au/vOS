@@ -76,6 +76,8 @@ FontFace=Trebuchet MS
 FontSize=(7*#Scale#)
 stringAlign=center
 AntiAlias=1
+StringEffect=Shadow
+FontEffectColor=#SysBarColor#
 
 [FirstDay]
 Y=(#Bumper.top#+#C.h#+#Space.y#)
