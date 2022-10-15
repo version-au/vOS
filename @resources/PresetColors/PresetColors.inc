@@ -389,3 +389,33 @@ PRESET13COLOR5=0095FF
 
 PRESET13COLOR6=5733D6
 ;HistColor
+
+;=====================|   PRESET COLOR 14  |=====================
+
+PRESET14COLOR1=28464B
+;SysBarColor
+;GradColor2
+
+PRESET14COLOR2=59C3C3
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+
+PRESET14COLOR3=3772FF
+;GradColor1
+
+PRESET14COLOR4=FABC2A
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+
+PRESET14COLOR5=DF2935
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+
+PRESET14COLOR6=1E3078
+;HistColor
