@@ -68,6 +68,7 @@ BarHideGradient=0,0 | #GradColor1# ; 0.3 | #GradColor2# ; 1.3
 MeterStrokeGradient=0 | #GradColor2# ; 0.0 | #GradColor1# ; 1.0
 PopoutSepGrad=0,0 | #TEXTMAINLIGHT# ; 0.5 | #TEXTMAINLIGHT#4D ; 1.5
 
+
 ;Group Indicator Gradients
 Group1Indicator=0,0 | #PaletteColor1# ; -0.1 | #PaletteColor1#1A ; 0.5
 Group2Indicator=0,0 | #PaletteColor2# ; -0. | #PaletteColor2#1A ; 0.5
