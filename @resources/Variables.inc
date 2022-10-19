@@ -78,3 +78,13 @@ FAN4=2000
 FAN5=2000
 ;=====================|   SCALING   |====================
 ScrollMouseIncrement=0.5
+
+;=====================|   APP GADGETS   |====================
+
+APPGADGETTINT1=#LINECOLOR1#
+APPGADGETTINT2=#LINECOLOR1#
+APPGADGETTINT3=#LINECOLOR1#
+APPGADGEGS1=1
+APPGADGETGS2=1
+APPGADGETGS3=1
+APPGADGETGS1=1
