@@ -19,32 +19,32 @@ TEXTSETTINGSMALLSIZE=7
 
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=07182D
+COLOR1=14041E
 ;SysBarColor
 ;GradColor2
 
-COLOR2=A2EBF3
+COLOR2=4D3691
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=352442
+COLOR3=301F7F
 ;GradColor1
 
-COLOR4=CC2D65
+COLOR4=499EBA
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=9E9DE4
+COLOR5=D6A465
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=1E3078
+COLOR6=CC6662
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
