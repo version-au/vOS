@@ -62,6 +62,7 @@ HDDcolorused=#COLOR4#
 HDDcolorfree=#COLOR5#
 MeterGradient=90 | #GradColor1# ; 0.0 | #GradColor2# ; 1.0
 MeterGradientPopup=90 | #GradColorPopup1#CC ; 0.0 | #GradColorPopup2#CC ; 1.0
+MeterGradientBox=90 | #GradColor1#33 ; 0.0 | #GradColor2#4D ; 1.0
 BarGradient=90 | #GradColor1#CC ; 0.0 | #GradColor2#00 ; 1.0
 CircleGradient=0,0 | #GradColor1#CC ; -0.2 | #GradColor2#00 ; 1.5
 BarHideGradient=0,0 | #GradColor1# ; 0.3 | #GradColor2# ; 1.3
