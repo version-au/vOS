@@ -17,6 +17,16 @@ TEXTSMALLSIZE=10
 TEXTSUPERSMALLSIZE=8
 TEXTSETTINGSMALLSIZE=7
 
+;------------------------
+TEXTCOLOR1=CD15E6
+TEXTCOLOR2=2CE617
+TEXTCOLOR3=AB0A0A
+TEXTCOLOR4=00E1FF
+
+TEXTCHANGE1=#TEXTMAINDARK#
+TEXTCHANGE2=#TEXTMAINLIGHT#
+TEXTCHANGE3=#TEXTMISC#
+TEXTCHANGE4=#TEXTSMALLCOLOR#
 ;=====================|   6 MAIN COLORS   |=====================
 
 COLOR1=14041E
@@ -136,7 +146,7 @@ LineWidth=2
 GraphOrientation=Vertical
 
 [styleMAINDARKText]
-FontColor=#TEXTMAINDARK#
+FontColor=#TEXTCHANGE1#
 FontSize=#TEXTMAINDARKSIZE#
 FontFace=#FONT#
 StringAlign=RIGHT
@@ -146,7 +156,7 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
 [styleMAINLIGHTText]
-FontColor=#TEXTMAINLIGHT#
+FontColor=#TEXTCHANGE2#
 FontSize=#TEXTMAINLIGHTSIZE#
 FontFace=#FONT#
 StringAlign=RIGHT
@@ -156,7 +166,7 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
 [styleMISCText]
-FontColor=#TEXTMISC#
+FontColor=#TEXTCHANGE3#
 FontSize=#TEXTMISCSIZE#
 FontFace=#FONT#
 StringAlign=RIGHT
@@ -166,7 +176,7 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
 [styleSmallText]
-FontColor=#TEXTSMALLCOLOR#
+FontColor=#TEXTCHANGE4#
 FontSize=#TEXTSMALLSIZE#
 FontFace=#FONT#
 StringAlign=LEFT
@@ -176,7 +186,7 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
 [styleSettingSmallText]
-FontColor=#TEXTSMALLCOLOR#
+FontColor=#TEXTCHANGE4#
 FontSize=#TEXTSETTINGSMALLSIZE#
 FontFace=#FONT#
 StringAlign=LEFT
@@ -186,7 +196,7 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
 [styleSmallLightText]
-FontColor=#TEXTMAINLIGHT#
+FontColor=#TEXTCHANGE2#
 FontSize=#TEXTSUPERSMALLSIZE#
 FontFace=Roboto
 StringAlign=LEFT
@@ -196,7 +206,7 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,80
 
 [styleSmallDarkText]
-FontColor=#TEXTMAINDARK#
+FontColor=#TEXTCHANGE1#
 FontSize=#TEXTSUPERSMALLSIZE#
 FontFace=Roboto
 StringAlign=LEFT
