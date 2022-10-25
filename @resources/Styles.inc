@@ -29,32 +29,32 @@ TEXTCHANGE3=#TEXTMISC#
 TEXTCHANGE4=#TEXTSMALLCOLOR#
 ;=====================|   6 MAIN COLORS   |=====================
 
-COLOR1=341D43
+COLOR1=24125D
 ;SysBarColor
 ;GradColor2
 
-COLOR2=6B303D
+COLOR2=373492
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 
-COLOR3=2E1834
+COLOR3=190933
 ;GradColor1
 
-COLOR4=F6C07D
+COLOR4=24DCFC
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 
-COLOR5=F29C4C
+COLOR5=FF0A91
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=6B303D
+COLOR6=373492
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
