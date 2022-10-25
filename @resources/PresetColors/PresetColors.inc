@@ -535,3 +535,32 @@ PRESET16COLOR5=000000
 
 PRESET16COLOR6=787878
 ;HistColor
+;HistColor;=====================|   PRESET COLOR 17 - WINDOWS WALLPAPER  |=====================
+
+PRESET17COLOR1=[ChamFG1]
+;SysBarColor
+;GradColor2
+
+PRESET17COLOR2=[ChamFG2]
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+
+PRESET17COLOR3=[ChamFG3]
+;GradColor1
+
+PRESET17COLOR4=[ChamFG4]
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+
+PRESET17COLOR5=[ChamFG5]
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+
+PRESET17COLOR6=[ChamFG6]
+;HistColor
