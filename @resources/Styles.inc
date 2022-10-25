@@ -54,7 +54,7 @@ COLOR5=000000
 ;TEXTMAINLIGHT
 ;TEXTMISC
 
-COLOR6=91868A
+COLOR6=787878
 ;HistColor
 
 ;=====================|   DISTRIBUTE COLORS   |=====================
