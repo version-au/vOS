@@ -170,3 +170,5 @@ Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey=SOFTWARE\HWiNFO64\VSB
 RegValue=#HWINFO23#
+MinValue=0
+MaxValue=500

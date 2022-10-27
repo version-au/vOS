@@ -33,10 +33,10 @@ Drive7=S
 
 ;=====================|   NET   |====================
 
-MaxDownloadMbits=100
-MaxUploadMbits=7
+;MaxDownloadMbits=100
+;MaxUploadMbits=7
 
-Interface=Best
+;Interface=Best
 
 ;=====================|   MUSIC PLAYER   |====================
 
