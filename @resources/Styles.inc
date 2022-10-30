@@ -198,7 +198,7 @@ FontEffectColor=0,0,0,80
 [styleSmallLightText]
 FontColor=#TEXTCHANGE2#
 FontSize=#TEXTSUPERSMALLSIZE#
-FontFace=Roboto
+FontFace=#FONT#
 StringAlign=LEFT
 AntiAlias=1
 StringStyle=Normal
@@ -208,7 +208,7 @@ FontEffectColor=0,0,0,80
 [styleSmallDarkText]
 FontColor=#TEXTCHANGE1#
 FontSize=#TEXTSUPERSMALLSIZE#
-FontFace=Roboto
+FontFace=#FONT#
 StringAlign=LEFT
 AntiAlias=1
 StringStyle=Normal
