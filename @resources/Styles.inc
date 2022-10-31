@@ -128,7 +128,7 @@ ColorFontSubtitle2=255,246,42
 ColorInfoText1=237,231,216
 ColorInfoText2=201,205,209
 FontName=Arial
-FontSize1=6
+FontSize1=5.5
 FontSize2=9
 FontSizeS=7
 
