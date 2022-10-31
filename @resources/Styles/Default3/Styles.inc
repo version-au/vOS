@@ -194,3 +194,15 @@ Y=(#Bumper.top#+#Bumper.bottom#+(#C.h#+#Space.y#)*7+#C.h#+1)
 
 
 
+; -------------------------------------------------------------------------------
+; ---------- Bar Meter Gradients -----------------------------------------------------------
+; -------------------------------------------------------------------------------
+
+
+[CPUcoreBar17Grad]
+Meter=Shape
+X=(20*#Scale#)
+Y=(10*#Scale#)
+MeterGradient=#BarGradient#
+Shape=Rectangle 0,0,(170*#Scale#),(85*#Scale#),(1*#Scale#) | StrokeWidth  0 | Stroke Color #StrokeMainColor# | Fill LinearGradient MeterGradient
+Group=MainBG
