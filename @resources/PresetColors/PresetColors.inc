@@ -478,7 +478,9 @@ PRESET15COLOR5=D6A465
 ;TEXTMISC
 
 PRESET15COLOR6=CC6662
-;HistColor;=====================|   PRESET COLOR 15  |=====================
+;HistColor
+
+;=====================|   PRESET COLOR 15  |=====================
 
 PRESET15COLOR1=14041E
 ;SysBarColor
@@ -506,7 +508,9 @@ PRESET15COLOR5=D6A465
 ;TEXTMISC
 
 PRESET15COLOR6=CC6662
-;HistColor;=====================|   PRESET COLOR 16  |=====================
+;HistColor
+
+;=====================|   PRESET COLOR 16  |=====================
 
 PRESET16COLOR1=252525
 ;SysBarColor
@@ -535,7 +539,8 @@ PRESET16COLOR5=000000
 
 PRESET16COLOR6=787878
 ;HistColor
-;HistColor;=====================|   PRESET COLOR 17 -  |=====================
+
+;=====================|   PRESET COLOR 17 -  |=====================
 
 PRESET17COLOR1=130F0E
 ;SysBarColor
@@ -563,4 +568,34 @@ PRESET17COLOR5=83F1FA
 ;TEXTMISC
 
 PRESET17COLOR6=EFE800
+;HistColor
+
+;=====================|   PRESET COLOR 18 -  |=====================
+
+PRESET18COLOR1=141C2F
+;SysBarColor
+;GradColor2
+
+PRESET18COLOR2=273754
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+
+PRESET18COLOR3=1C2E50
+;GradColor1
+
+PRESET18COLOR4=38C7E4
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+
+PRESET18COLOR5=DA3B82
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+
+PRESET18COLOR6=273754
 ;HistColor
