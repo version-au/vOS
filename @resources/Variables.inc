@@ -1,5 +1,5 @@
 [Variables]
-
+;@About | Name About | Description an example settings skin generated from example.inc | Icon [\xE897]
 ;=====================|   WEATHER   |=====================
 
 LocationCode=
@@ -10,16 +10,37 @@ MeasureName2=MeasureTempCelsius
 ;=====================|   CALENDAR   |=====================
 DefaultCalStyle=Default3
 
-;=====================|   APPBAR   |=====================
-
+;=====================|   APPBAR/GADGET   |=====================
+;@Topic | Name Bar Settings | Icon [\xE713]
+;@ | Name AppBar | Icon [\xE73E]
+;?String | Name Application Path 1 | Description Path to shortcut directory
 AppPath1=C:\Users\steve\Documents\Shortcuts\Applications\
+;?String | Name Application Path 2 | Description Path to shortcut directory
 AppPath2=C:\Users\steve\Documents\Shortcuts\Games\
+;?String | Name Application Path 3 | Description Path to shortcut directory
 AppPath3=C:\Users\steve\Downloads\
-AppPath4=C:\Users\steve\Documents\Shortcuts\Games\
+;@Topic | Name Gadget Settings | Icon [\xE713]
+;@ | Name AppGadget | Icon [\xE73E]
+;?String | Name Application Path 1 | Description Path to shortcut directory
+AppPath4=C:\Users\steve\Documents\Shortcuts\Games
+;?String | Name Application Path 2 | Description Path to shortcut directory
 AppPath5=C:\Users\steve\Documents\Shortcuts\Applications\
+;?String | Name Application Path 3 | Description Path to shortcut directory
 AppPath6=
+
 APPBARSCALE=1.5
 APPGADGETSCALE=1.5
+
+
+
+APPGADGETTINT1=#LINECOLOR1#
+APPGADGETTINT2=#LINECOLOR1#
+APPGADGETTINT3=#LINECOLOR1#
+
+APPGADGETGS1=1
+APPGADGETGS2=1
+APPGADGETGS3=1
+
 ;=====================|   HDDS   |====================
 NumberOfDrives=7
 Drive1=C
@@ -78,12 +99,37 @@ FAN5=2000
 ;=====================|   SCALING   |====================
 ScrollMouseIncrement=0.5
 
-;=====================|   APP GADGETS   |====================
 
-APPGADGETTINT1=#LINECOLOR1#
-APPGADGETTINT2=#LINECOLOR1#
-APPGADGETTINT3=#LINECOLOR1#
-APPGADGEGS1=1
-APPGADGETGS2=1
-APPGADGETGS3=1
-APPGADGETGS1=1
+
+
+;=====================|   6 MAIN COLORS   |=====================
+;@Topic | Name Colors | Icon [\xE713]
+;@ | Name Bar/Gadget Colors | Icon [\xE73E]
+;?Color | Name Color 1 | Bar/Gadget Color / Gradient Color 2
+COLOR1=141C2F
+;SysBarColor
+;GradColor2
+;?Color | Name Color 2 | Bar/Gadget Color / Gradient Color 2
+COLOR2=273754
+;StrokeMainColor
+;PaletteColor2
+;TEXTSMALLCOLOR
+;?Color | Name Color 3 | Bar/Gadget Color / Gradient Color 2
+COLOR3=1C2E50
+;GradColor1
+;?Color | Name Color 4 | Bar/Gadget Color / Gradient Color 2
+COLOR4=38C7E4
+;LineColor1
+;HDDcolorused
+;PaletteColor1
+;TEXTMAINDARK
+;?Color | Name Color 5 | Bar/Gadget Color / Gradient Color 2
+COLOR5=DA3B82
+;LineColor2
+;HDDcolorfree
+;PaletteColor3
+;TEXTMAINLIGHT
+;TEXTMISC
+;?Color | Name Color 6 | Bar/Gadget Color / Gradient Color 2
+COLOR6=273754
+;HistColor
