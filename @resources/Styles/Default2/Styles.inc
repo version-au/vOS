@@ -22,7 +22,7 @@ Shape2=Rectangle (0*#Scale#),(0*#Scale#),(200*#Scale#),(105*#Scale#),(2*#Scale#)
 Meter=Shape
 X=(20*#Scale#)
 Y=(10*#Scale#)
-;ShadowGradient=90 | #GradColor1#80 ; 0.0 | #GradColor2#80 ; 1.0
+ShadowGradient=90 | #GradColor1#80 ; 0.0 | #GradColor2#80 ; 1.0
 Shape=Rectangle (1*#Scale#),(1*#Scale#),(113*#Scale#),(85*#Scale#),(1*#Scale#) | StrokeWidth  0 | Stroke Color #StrokeMainColor# | Fill LinearGradient ShadowGradient
 Group=MainBG
 
