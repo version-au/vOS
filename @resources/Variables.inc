@@ -5,32 +5,32 @@
 ;@Topic | Name Colors | Icon [\xE713]
 ;@ | Name Bar/Gadget Colors | Icon [\xE73E]
 ;?Color | Name Color 1 | Bar/Gadget Color / Gradient Color 2
-COLOR1=141C2F
+COLOR1=1B2432
 ;SysBarColor
 ;GradColor2
 ;?Color | Name Color 2 | Bar/Gadget Color / Gradient Color 2
-COLOR2=273754
+COLOR2=CFD4DD
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 ;?Color | Name Color 3 | Bar/Gadget Color / Gradient Color 2
-COLOR3=1C2E50
+COLOR3=403F4C
 ;GradColor1
 ;?Color | Name Color 4 | Bar/Gadget Color / Gradient Color 2
-COLOR4=38C7E4
+COLOR4=ED254E
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 ;?Color | Name Color 5 | Bar/Gadget Color / Gradient Color 2
-COLOR5=DA3B82
+COLOR5=C5D86D
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 ;?Color | Name Color 6 | Bar/Gadget Color / Gradient Color 2
-COLOR6=273754
+COLOR6=2C2B3C
 ;HistColor
 
 
@@ -46,7 +46,7 @@ EXAMPLEPRESET1COLOR1=2E3440
 ;?Color | Name Color 1 | Main Large Dark
 TEXTCHANGE1=#TEXTMAINDARK#
 ;?Color | Name Color 2 | Main Large Light
-TEXTCHANGE2=#TEXTCOLOR2#
+TEXTCHANGE2=#TEXTMAINLIGHT#
 ;?Color | Name Color 3 | misc
 TEXTCHANGE3=#TEXTMISC#
 ;?Color | Name Color 4 | misc small

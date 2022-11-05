@@ -51,13 +51,13 @@ s_ScrollIndicatorMaxHeight=([#s_PanelH] - ([#s_scrollIndicatorYPadding] * 2))
 ;?Integer | Name Scroll indicator X padding | Description 
 s_scrollIndicatorXPadding=5
 ;?Integer | Name Scroll indicator width | Description 
-s_ScrollIndicatorWidth=5
+s_ScrollIndicatorWidth=8
 ;?Color | Name Scroll indicator background color | Description 
 s_ScrollIndicatorBackgroundColor=0,0,0,0
 ;?Color | Name Scroll indicator color | Description 
 s_ScrollIndicatorColor=#color5#
 ;?Integer | Name Scroll indicator rounding | Description 
-s_ScrollIndicatorRounding=5
+s_ScrollIndicatorRounding=2
 ;?Info | Name Filler variable 0 | Description This is here to show the scroll indicator
  = 
 ;?Info | Name Filler variable 1 | Description This is here to show the scroll indicator
