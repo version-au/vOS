@@ -5,32 +5,32 @@
 ;@Topic | Name Colors | Icon [\xE713]
 ;@ | Name Bar/Gadget Colors | Icon [\xE73E]
 ;?Color | Name Color 1 | Bar/Gadget Color / Gradient Color 2
-COLOR1=150C09
+COLOR1=07182D
 ;SysBarColor
 ;GradColor2
 ;?Color | Name Color 2 | Bar/Gadget Color / Gradient Color 2
-COLOR2=3F1C15
+COLOR2=A2EBF3
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 ;?Color | Name Color 3 | Bar/Gadget Color / Gradient Color 2
-COLOR3=59180C
+COLOR3=352442
 ;GradColor1
 ;?Color | Name Color 4 | Bar/Gadget Color / Gradient Color 2
-COLOR4=E0EAD8
+COLOR4=CC2D65
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 ;?Color | Name Color 5 | Bar/Gadget Color / Gradient Color 2
-COLOR5=FD3C2C
+COLOR5=9E9DE4
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 ;?Color | Name Color 6 | Bar/Gadget Color / Gradient Color 2
-COLOR6=3F1C15
+COLOR6=1E3078
 ;HistColor
 
 
@@ -52,7 +52,7 @@ TEXTCHANGE3=#TEXTMISC#
 ;?Color | Name Color 4 | misc small
 TEXTCHANGE4=#TEXTSMALLCOLOR#
 
-TEXTCOLOR1=11,3,255
+TEXTCOLOR1=255,109,226
 TEXTCOLOR2=192,193,0
 TEXTCOLOR3=255,39,220
 TEXTCOLOR4=0,190,178
@@ -151,15 +151,15 @@ List of players=https://github.com/version-au/vOS/blob/1/%40resources/mediaplaye
 
 ;=====================|   FANS   |====================
 ;@ | Name FanBar | Icon [\xE73E]
-;?String | Name Fan 1 Max RPM | Description Input maximum RPM of fan 1
+;?String | Name Output Fans Max RPM | Description Input maximum RPM of output fans
 FAN1=2000
-;?String | Name Fan 2 Max RPM | Description Input maximum RPM of fan 2
+;?String | Name Input Fans Max RPM | Description Input maximum RPM of input fans
 FAN2=1500
-;?String | Name Fan 3 Max RPM | Description Input maximum RPM of fan 3
+;?String | Name CPU Fans Max RPM | Description Input maximum RPM of CPU fans
 FAN3=2000
-;?String | Name Fan 4 Max RPM | Description Input maximum RPM of fan 4
+;?String | Name GPU Fans Max RPM | Description Input maximum RPM of GPU fans
 FAN4=2000
-;?String | Name Fan 5 Max RPM | Description Input maximum RPM of fan 5
+;?String | Name AIO Pump Max RPM | Description Input maximum RPM of AIO pump
 FAN5=2000
 
 ;=====================|   SCALING   |====================
