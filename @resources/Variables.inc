@@ -5,32 +5,32 @@
 ;@Topic | Name Colors | Icon [\xE713]
 ;@ | Name Bar/Gadget Colors | Icon [\xE73E]
 ;?Color | Name Color 1 | Bar/Gadget Color / Gradient Color 2
-COLOR1=1B2432
+COLOR1=07182D
 ;SysBarColor
 ;GradColor2
 ;?Color | Name Color 2 | Bar/Gadget Color / Gradient Color 2
-COLOR2=CFD4DD
+COLOR2=A2EBF3
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 ;?Color | Name Color 3 | Bar/Gadget Color / Gradient Color 2
-COLOR3=403F4C
+COLOR3=352442
 ;GradColor1
 ;?Color | Name Color 4 | Bar/Gadget Color / Gradient Color 2
-COLOR4=ED254E
+COLOR4=CC2D65
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 ;?Color | Name Color 5 | Bar/Gadget Color / Gradient Color 2
-COLOR5=C5D86D
+COLOR5=9E9DE4
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 ;?Color | Name Color 6 | Bar/Gadget Color / Gradient Color 2
-COLOR6=2C2B3C
+COLOR6=1E3078
 ;HistColor
 
 
@@ -179,13 +179,13 @@ HWINFO3=Value2
 HWINFO4=Value3
 ;?String | Name CPU Wattage
 HWINFO15=Value4
-;?String | Name Fan 1
+;?String | Name Output Fans
 HWINFO5=ValueRaw5
-;?String | Name CPU Fan
+;?String | Name CPU Fans
 HWINFO6=ValueRaw6
-;?String | Name Fan 2
+;?String | Name Input Fans
 HWINFO7=ValueRaw7
-;?String | Name Fan 3
+;?String | Name GPU Fans
 HWINFO8=ValueRaw8
 ;?String | Name AIO Pump
 HWINFO9=ValueRaw6

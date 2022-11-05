@@ -15,7 +15,7 @@ s_Theme2Name=Slim
 s_ScrollTreshold=[#s_PanelH]
 s_ScrollRightPanel=0
 s_ScrollLeftPanel=0
-s_CurrentCategory=3
+s_CurrentCategory=12
 s_SettingsTheme=0
 
 ;@ | Name Generator | Icon [\xE9F5]
