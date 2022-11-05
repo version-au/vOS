@@ -46,7 +46,7 @@ EXAMPLEPRESET1COLOR1=2E3440
 ;?Color | Name Color 1 | Main Large Dark
 TEXTCHANGE1=#TEXTMAINDARK#
 ;?Color | Name Color 2 | Main Large Light
-TEXTCHANGE2=#TEXTMAINLIGHT#
+TEXTCHANGE2=#TEXTCOLOR2#
 ;?Color | Name Color 3 | misc
 TEXTCHANGE3=#TEXTMISC#
 ;?Color | Name Color 4 | misc small

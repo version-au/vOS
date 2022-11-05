@@ -95,12 +95,12 @@ MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor [#color5]][!SetOption #C
 [VarColorString]
 Y=0r
 X=0R
-FontColor=[#s_FontColor]
+FontColor=[#color5]
 Padding=[#s_ColorStringLeftPadding],([#s_ColorSize] - [#s_FontSize3]),[#s_VariableXPadding],(([#s_ColorSize] - [#s_FontSize3]) + [#s_ValueYPadding])
 
 [Link1]
-MouseOverAction=[!SetOption #CURRENTSECTION# FontColor [#s_SelectedColor]][!SetOption #CURRENTSECTION# InlineSetting "Underline"][!UpdateMeter #CURRENTSECTION#][!Redraw]
-MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor [#s_FontColor]][!SetOption #CURRENTSECTION# InlineSetting ""][!UpdateMeter #CURRENTSECTION#][!Redraw]
+MouseOverAction=[!SetOption #CURRENTSECTION# FontColor [#color6]][!SetOption #CURRENTSECTION# InlineSetting "Underline"][!UpdateMeter #CURRENTSECTION#][!Redraw]
+MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor [#color5]][!SetOption #CURRENTSECTION# InlineSetting ""][!UpdateMeter #CURRENTSECTION#][!Redraw]
 
 [Link0]
 MouseOverAction=
@@ -118,6 +118,6 @@ SolidColor=[#s_DebugToggleColor[#s_DebugColors]]
 X=[#s_VariableXPadding]
 Y=[#s_ValueYPadding]R
 SolidColor=[#s_DebugColorColor[#s_DebugColors]] 
-MouseOverAction=[!SetOption #CURRENTSECTION# "Outline" "Stroke Color [#s_SelectedColor]"][!SetVariable s_ColorStrokeWidth [#s_ColorStrokeWidthSelected]][!UpdateMeter #CURRENTSECTION#][!Redraw]
-MouseLeaveAction=[!SetOption #CURRENTSECTION# "Outline" "Stroke Color [#s_ColorStrokeColor]"][!SetVariable s_ColorStrokeWidth [#s_ColorStrokeWidth]][!UpdateMeter #CURRENTSECTION#][!Redraw]
+MouseOverAction=[!SetOption #CURRENTSECTION# "Outline" "Stroke Color [#color6]"][!SetVariable s_ColorStrokeWidth [#s_ColorStrokeWidthSelected]][!UpdateMeter #CURRENTSECTION#][!Redraw]
+MouseLeaveAction=[!SetOption #CURRENTSECTION# "Outline" "Stroke Color [#color5]"][!SetVariable s_ColorStrokeWidth [#s_ColorStrokeWidth]][!UpdateMeter #CURRENTSECTION#][!Redraw]
 

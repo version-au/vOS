@@ -130,13 +130,13 @@ s_IndentVariables=1
 
 ;@ | Name Color
 ;?Integer | Name Color circle radius | Description s_ColorSize
-s_ColorSize=15
+s_ColorSize=20
 ;?Integer | Name Color circle stroke width | Description s_ColorStrokeWidth
-s_ColorStrokeWidth=1
+s_ColorStrokeWidth=2
 ;?Integer | Name Color circle stroke width on hover | Description s_ColorStrokeWidthSelected
 s_ColorStrokeWidthSelected=2
 ;?Color | Name Color circle stroke color | Description s_ColorStrokeColor (will change to s_Selected when hovered)
-s_ColorStrokeColor=#color2#
+s_ColorStrokeColor=#color5#
 ;?Integer | Name Gap between the circle and the string | Description s_ColorStringLeftPadding
 s_ColorStringLeftPadding=10
 
