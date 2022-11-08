@@ -74,7 +74,7 @@ Format=%A, %B %#d, %Y %#I:%M %p
 
 [MeasureDate]
 Measure=Time
-Format=%x
+Format=%d/%m/%y
 
 [MeasureUptime]
 Measure=Uptime

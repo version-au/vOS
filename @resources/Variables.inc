@@ -90,7 +90,7 @@ AppPath4=C:\Users\steve\Documents\Shortcuts\Games
 ;?String | Name Application Path 2 | Description Path to shortcut directory
 AppPath5=C:\Users\steve\Documents\Shortcuts\Applications\
 ;?String | Name Application Path 3 | Description Path to shortcut directory
-AppPath6=
+AppPath6=C:\Users\steve\Downloads\
 ;?String | Name AppGadget Scale| Description Size scaling. 0.5 increments
 APPGADGETSCALE=1.5
 
