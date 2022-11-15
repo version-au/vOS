@@ -5,32 +5,32 @@
 ;@Topic | Name Colors | Icon [\xE713]
 ;@ | Name Bar/Gadget Colors | Icon [\xE73E]
 ;?Color | Name Color 1
-COLOR1=141C2F
+COLOR1=07182D
 ;SysBarColor
 ;GradColor2
 ;?Color | Name Color 2
-COLOR2=273754
+COLOR2=A2EBF3
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 ;?Color | Name Color 3
-COLOR3=1C2E50
+COLOR3=352442
 ;GradColor1
 ;?Color | Name Color 4
-COLOR4=38C7E4
+COLOR4=CC2D65
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 ;?Color | Name Color 5
-COLOR5=DA3B82
+COLOR5=9E9DE4
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 ;?Color | Name Color 6
-COLOR6=273754
+COLOR6=1E3078
 ;HistColor
 
 
