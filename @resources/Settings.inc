@@ -3,7 +3,7 @@
 
 [Variables]
 ;Name of the Style Sheet
-Style=Default3
+Style=Default2
 
 ;Custom text for Weekday labels. Uses the following format: Sun|Mon|Tue|Wed|Thu|Fri|Sat
 DayLabels=

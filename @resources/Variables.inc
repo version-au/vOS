@@ -5,32 +5,32 @@
 ;@Topic | Name Colors | Icon [\xE713]
 ;@ | Name Bar/Gadget Colors | Icon [\xE73E]
 ;?Color | Name Color 1
-COLOR1=07182D
+COLOR1=10242C
 ;SysBarColor
 ;GradColor2
 ;?Color | Name Color 2
-COLOR2=A2EBF3
+COLOR2=5F5671
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 ;?Color | Name Color 3
-COLOR3=352442
+COLOR3=10242C
 ;GradColor1
 ;?Color | Name Color 4
-COLOR4=CC2D65
+COLOR4=13D4DE
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 ;?Color | Name Color 5
-COLOR5=9E9DE4
+COLOR5=FF0F8B
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 ;?Color | Name Color 6
-COLOR6=1E3078
+COLOR6=5F5671
 ;HistColor
 
 
@@ -90,7 +90,7 @@ AppPath4=C:\Users\steve\Documents\Shortcuts\Games
 ;?String | Name Application Path 2 | Description Path to shortcut directory
 AppPath5=C:\Users\steve\Documents\Shortcuts\Applications\
 ;?String | Name Application Path 3 | Description Path to shortcut directory
-AppPath6=C:\Users\steve\Downloads\
+AppPath6=C:\Users\steve\Documents\Shortcuts\Links
 ;?String | Name AppGadget Scale| Description Size scaling. 0.5 increments
 APPGADGETSCALE=1.5
 
@@ -108,7 +108,7 @@ APPGADGETGS1=(#EnableGS1# - 1)
 EnableGS2=0
 APPGADGETGS2=(#EnableGS2# - 1)
 ;?Toggle | Name AppGadget 3 Icon Tint
-EnableGS3=0
+EnableGS3=1
 APPGADGETGS3=(#EnableGS3# - 1)
 
 
