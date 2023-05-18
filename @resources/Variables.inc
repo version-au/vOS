@@ -5,32 +5,32 @@
 ;@Topic | Name Colors | Icon [\xE713]
 ;@ | Name Bar/Gadget Colors | Icon [\xE73E]
 ;?Color | Name Color 1
-COLOR1=10242C
+COLOR1=2A2A2A
 ;SysBarColor
 ;GradColor2
 ;?Color | Name Color 2
-COLOR2=5F5671
+COLOR2=220,178,166
 ;StrokeMainColor
 ;PaletteColor2
 ;TEXTSMALLCOLOR
 ;?Color | Name Color 3
-COLOR3=10242C
+COLOR3=2A2A2A
 ;GradColor1
 ;?Color | Name Color 4
-COLOR4=13D4DE
+COLOR4=F1EEDD
 ;LineColor1
 ;HDDcolorused
 ;PaletteColor1
 ;TEXTMAINDARK
 ;?Color | Name Color 5
-COLOR5=FF0F8B
+COLOR5=EC6245
 ;LineColor2
 ;HDDcolorfree
 ;PaletteColor3
 ;TEXTMAINLIGHT
 ;TEXTMISC
 ;?Color | Name Color 6
-COLOR6=5F5671
+COLOR6=3D312E
 ;HistColor
 
 
@@ -165,49 +165,49 @@ ScrollMouseIncrement=0.5
 ;?String | Name CPU Avg Clock
 HWINFO1=Value0
 ;?String | Name CPU Temperature
-HWINFO2=ValueRaw1
+HWINFO2=ValueRaw2
 ;?String | Name CPU Voltage
-HWINFO3=Value2
+HWINFO3=Value3
 ;?String | Name CPU TDC
-HWINFO4=Value3
+HWINFO4=Value4
 ;?String | Name CPU Wattage
-HWINFO15=Value4
+HWINFO15=Value5
 ;?String | Name Output Fans
-HWINFO5=ValueRaw5
+HWINFO5=ValueRaw6
 ;?String | Name CPU Fans
-HWINFO6=ValueRaw6
+HWINFO6=ValueRaw7
 ;?String | Name Input Fans
-HWINFO7=ValueRaw7
+HWINFO7=ValueRaw8
 ;?String | Name GPU Fans
-HWINFO8=ValueRaw8
+HWINFO8=ValueRaw9
 ;?String | Name AIO Pump
-HWINFO9=ValueRaw6
+HWINFO9=ValueRaw7
 ;?String | Name Ram Stick 1 Temp
-HWINFO10=ValueRaw9
+HWINFO10=ValueRaw10
 ;?String | Name Ram Stick 2 Temp
-HWINFO11=ValueRaw10
+HWINFO11=ValueRaw11
 ;?String | Name Ram Stick 3 Temp
-HWINFO12=ValueRaw11
+HWINFO12=ValueRaw12
 ;?String | Name Ram Stick 4 Temp
-HWINFO13=ValueRaw12
+HWINFO13=ValueRaw13
 ;?String | Name GPU Temperature
-HWINFO14=ValueRaw13
+HWINFO14=ValueRaw14
 ;?String | Name GPU Amps
-HWINFO16=Value14
+HWINFO16=Value16
 ;?String | Name GPU Wattage
-HWINFO17=Value15
+HWINFO17=Value17
 ;?String | Name GPU Clock
-HWINFO18=Value16
+HWINFO18=Value18
 ;?String | Name GPU Memory Clock
-HWINFO19=Value17
+HWINFO19=Value19
 ;?String | Name GPU Memory Usage
-HWINFO20=Value19
+HWINFO20=Value21
 ;?String | Name Network Download Total
-HWINFO21=Value21
+HWINFO21=Value23
 ;?String | Name Network Upload Total
-HWINFO22=Value22
+HWINFO22=Value24
 ;?String | Name RTSS FPS
-HWINFO23=ValueRaw20
+HWINFO23=ValueRaw22
 
 
 
